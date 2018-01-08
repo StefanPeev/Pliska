@@ -6,10 +6,8 @@ Current Contributors (sorted alphabetically):
     Context Ltd.
 
 Previous Contributors (sorted alphabetically):
-  - Pravin Satpute  <psatpute at redhat dot com>
-    Project Owner (reserved font name Liberation Sans)
-    Red Hat, Inc.
+  - Alexej Kryukov
+  - Michael Sharpe
+  - Valek Fillipov
+  - Yannis Haralambous
 
-  - Steve Matteson
-    Original Designer (reserved font name Arimo)
-    Ascender, Inc.
