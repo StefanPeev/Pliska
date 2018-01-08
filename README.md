@@ -22,19 +22,12 @@ If you make modifications be sure to add your name (N),
 email (if you have one) (E), web-address (if you have one) (W), twitter handle (if you have one) (T) and description (D).
 This list is in chronological order.
 
-### Author for Libra Sans
+### Project Manager
 
 + N: Stefan Peev
 + E: context.bg@gmail.com
 + W: https://localfonts.eu
-+ D: Designer
-
-### Contributors
-
-+ N: 
-+ E: 
-+ W: 
-+ D:
++ D: Project Manager and Designer
 
 ## License
 
