@@ -1,12 +1,6 @@
-Digitized data copyright (c) 2010 Google Corporation
-	with Reserved Font Arimo, Tinos and Cousine.
-Copyright (c) 2012 Red Hat, Inc.
-	with Reserved Font Name Liberation.
-Copyright (c) 2017 Stefan Peev, Context Ltd
-	with Reserved Font Name Libra Sans.
-
-This Font Software is licensed under the SIL Open Font License,
-Version 1.1.
+Copyright (c) 2016, Stefan Peev, [Context Ltd.](http://contextbg.net), [Local Fonts](https://localfonts.eu)
+with Reserved Font Names "Pliska".
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
