@@ -1,0 +1,14 @@
+Pliska Font Package
+--------------------
+This package is modification of Tempora Font Package. For the license information see the file README.txt. 
+The project 'Pliska Font Package' includes Pliska-Regular, Pliska-Bold, Pliska-Italic and Pliska-BoldItalic.
+
+Current version 1.100 31.07.2016
+
+Changes in version 1.100
+1. Full support for Serbian language through Style Set 02.
+2. Full support for Macedonian language through Style Set 03.
+
+Changes in version 1.000
+1. The original Cyrillic glyphs (the range uni0410:uni044F) are included as *.locl glyphs. They could be used in Russian, Ukrainian and Serbian languages or through feature Stylistic Set 01 for any Cyrillic language.
+2. In the font family Pliska the Unicode range uni0410:uni044F consists of letterform model known as Bulgarian Cyrillic (or better say – contemporary Cyrillic).

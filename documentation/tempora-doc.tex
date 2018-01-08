@@ -1,0 +1,106 @@
+% !TEX TS-program = pdflatex
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry} 
+\usepackage[parfill]{parskip}% Begin paragraphs with an empty line rather than an indent
+\pdfmapfile{=tempora.map}
+\usepackage{graphicx}
+\usepackage[OT2,LGR,T2A,T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{substitutefont}
+\usepackage[greek.polutoniko,russian,english]{babel}
+\usepackage[largesc]{newtxtext} % 
+\usepackage[varqu,varl]{zi4}% inconsolata
+\usepackage[bigdelims,vvarbb]{newtxmath}
+\useosf % must come immediately after newtxmath
+\substitutefont{LGR}{\rmdefault}{Tempora-TLF}
+\substitutefont{T2A}{\rmdefault}{Tempora-TLF}
+\substitutefont{OT2}{\rmdefault}{Tempora-TLF}
+\usepackage{fonttable}
+\newcommand\cyrtext{\fontencoding{OT2}\selectfont} % declaration
+\DeclareTextFontCommand{\textcyr}{\cyrtext}  %macro with argument
+%
+\title{The Tempora package}
+\author{Michael Sharpe}
+\date{\today} 
+\begin{document}
+\maketitle
+{\tt Tempora} is derived from the fonts named {\tt TemporaLGCUni} constructed by Alexey Kryukov, issued in 2005 under the GPL, based on the Latin glyphs from {\tt URW NimbusRomNo9} fonts from 1999, the Greek glyphs from the Omega project (Yannis Haralambous) from 1996, and Cyrillic glyphs by Valek Fillipov. The kerning tables he constructed seem to be of very good quality. His fonts have been widely distributed on free font sites, but have never been made available on \textsc{ctan} with LaTeX support files because, I think, there are a few flaws in the Greek section of the fonts that prevent most font utilities like {\tt afm2tfm}, {\tt fontinst} and the {\tt lcdftools} from acting correctly---there are instances of duplicated glyph name and duplicated unicode names that  interfere with the indexing of font names and codes. {\tt Tempora} makes a number of changes to the fonts to fix these issues, primarily to all glyphs whose names contain {\tt tonos}, and to \verb|\kappa|, \verb|\Delta|, \verb|\Omega|, \verb|\mu| and \verb|\rho|. In the latter case, it interchanges the glyphs corresponding to what are usually known as \verb|\rho| and \verb|\rho1| to that their visual appearances are those in common usage. It also adds to {\tt Tempora-Italic} the missing GSUB lookup tables that are found in all others in the collection. Note that {\tt FreeSerif}, from the {\tt gnu-freefont} project, includes the Greek and Cyrillic glyphs from {\tt TemporaLGCUni}, but the current version, dated 2012,  does not include most of the associated kerning tables.
+
+The package is intended to be an add-on to a comprehensive Times-like text font package, such as {\tt newtxtext} or {\tt tgtermes}, adding the possibility of writing parts in Greek or Cyrillic. The Greek part of {\tt Tempora} offers essentially full support for the LGR encoding, and thus for {\tt babel}'s {\tt greek} options---{\tt monotonic} (the default), {\tt ancient} and {\tt polutoniko}---while the Cyrillic part offers almost full support for the {\tt T2A} encoding and lesser support for the more Asian flavors, {\tt T2B} and {\tt T2C}. 
+\newpage
+\section*{Some Font tables}
+\def\tfmname{Tempora-Regular-TLF-lgr}
+\textbf{\tfmname} \textsc{glyph table}:\hspace{.3in} 
+\fonttable{\tfmname}
+
+Notice that the glyph in slot 115 may appear to be incorrect---you might think it should be the letter sigma (non-final), as in the first letter of \foreignlanguage{greek}{σῦς}. The {\tt tfm} files contain instructions to render a final sigma as in the last letter of that word, and the {\tt fonttable} package appears to treat all entries in the table as final letters. So, not really an issue.
+\newpage
+\def\tfmname{Tempora-Regular-TLF-t2a}
+\textbf{\tfmname} \textsc{glyph table}:\hspace{.3in} 
+\fonttable{\tfmname}
+
+Example:  \foreignlanguage{russian}{который}.
+\newpage
+\def\tfmname{Tempora-Regular-TLF-ot2}
+\textbf{\tfmname} \textsc{glyph table}:\hspace{.3in} 
+\fonttable{\tfmname}
+
+%Example:  \foreignlanguage{russian}{который}.
+To use OT$2$ as a poor man's T$2$A, you include in your preamble some variant of:
+\begin{verbatim}
+\documentclass{article} 
+\usepackage[OT2,T1]{fontenc} % loads ot2enc.def
+\usepackage{substitutefont}
+\substitutefont{OT2}{\rmdefault}{Tempora-TLF} % after loading text font package
+\newcommand\cyrtext{\fontencoding{OT2}\selectfont} % declaration
+\DeclareTextFontCommand{\textcyr}{\cyrtext}  %macro with argument
+\end{verbatim}
+The Russian part of the following sentence is entered as \verb|\textcyr{a e1to --- po-russki}|.
+
+This is text in English, then Russian:
+\textcyr{a e1to --- po-russki}.
+
+For further details of using OT$2$, consult the documentation for the {\tt nimbus15} package.
+\newpage
+\section*{Usage}
+There are two basic pathways that can be followed, one based on {\tt fontspec} (XeLaTeX or LuaLaTeX), the other on pure LaTeX (pdflatex).
+\subsection*{LaTeX} The loading order of packages is important here. See the documentation of the {\tt newtx} package for details. Here's an example of using {\tt newtx} text and math, set up to allow the use of polytonic Greek, Russian and English as the main language.
+\begin{verbatim}
+\usepackage[LGR,T2A,T1]{fontenc} % spell out all text encodings used
+\usepackage[utf8]{inputenc} % 
+\usepackage{substitutefont} % so we can use fonts other than those in babel
+\usepackage[greek.polutoniko,russian,english]{babel}
+\usepackage[largesc]{newtxtext} % 
+\usepackage[varqu,varl]{zi4}% inconsolata
+\usepackage{cabin}% sans serif
+\usepackage[bigdelims,vvarbb]{newtxmath}
+\useosf % use oldstyle figures except in math
+\substitutefont{LGR}{\rmdefault}{Tempora-TLF} % use Tempora to render Greek text
+\substitutefont{T2A}{\rmdefault}{Tempora-TLF} % use Tempora to render Russian 
+\end{verbatim}
+Any {\tt utf8}-encoded text typed outside of a \verb|\foreignlanguage{}{}| block will be rendered as T1-encoded {\tt newtxtext}, while that within \verb|\foreignlanguage{greek}{}| will be rendered as LGR-encoded polytonic Greek, and similarly for \verb|\foreignlanguage{russian}{}|. The macro \verb|\textgreek| made available by {\tt babel-greek} may be used to avoid unicode. For example, \verb+\textgreek{>agaj\~{h}| t'uqh|?}+ renders as \textgreek{>agaj\~{h}| t'aqh|?}. The macro \verb|\LGCscale| can be set if you wish to rescale the {\tt Tempora} text. For example, \verb|\def\LGCscale{1.05}| will scale it up by 5\%. This is handled automatically for you by {\tt newtxtext} if you set its scale using the {\tt scaled} option.
+
+\subsection*{Fontspec} With {\tt fontspec}, the setup is fairly simple. Tempora supplies a file named {\tt tempora.fontspec} with contents
+\begin{verbatim}
+\defaultfontfeatures[tempora]
+  {
+  Extension = .otf ,
+  UprightFont = Tempora-Regular,
+  BoldFont = Tempora-Bold,
+  ItalicFont = Tempora-Italic,
+  BoldItalicFont = Tempora-BoldItalic
+  }
+\end{verbatim}
+This file will be read by {\tt fontspec} whenever {\tt tempora} is loaded as a font, thereby simplifying the information you have to provide. 
+
+\textsc{Example:}
+\begin{verbatim}
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Termes}% assumes it to be in one of your fonts folders
+\newfontfamily{\Temp}{tempora} % reads tempora.fontspec
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Gill Sans}
+\setmonofont{Inconsolata}[Scale=MatchLowercase]
+\end{verbatim}
+so that {\tt utf8}-encoded text within a \verb|\Temp{}| container will be rendered using {\tt Tempora} and all other text will be rendered using {\tt TeX Gyre Termes}. You will most likely also wish to load the {\tt polyglossia} package to replace {\tt babel}.
+
+\end{document}  

@@ -1,0 +1,15 @@
+AUTHORS
+
+Current Contributors (sorted alphabetically):
+  - Stefan Peev  <context dot bg at gmail dot com>
+    Project Owner (reserved font name Libra Sans)
+    Context Ltd.
+
+Previous Contributors (sorted alphabetically):
+  - Pravin Satpute  <psatpute at redhat dot com>
+    Project Owner (reserved font name Liberation Sans)
+    Red Hat, Inc.
+
+  - Steve Matteson
+    Original Designer (reserved font name Arimo)
+    Ascender, Inc.
