@@ -31,7 +31,7 @@ This list is in chronological order.
 
 ## License
 
-SIL Open Font License [OFL](documentation/OFL.txt)
+SIL Open Font License [OFL](documentation/OFL.md)
 
 ## Local Fonts Project
 
