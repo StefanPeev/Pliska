@@ -14,7 +14,7 @@ Please read file "AUTHORS" for list of contributors.
 
 ## Examples
 
-<img src="https://raw.githubusercontent.com/StefanPeev/Pliska/master/images/Pliska_web_01.jpg" />
+See [images](/images/) and [Gallery](/images/Gallery.md).
 
 ## Acknowledgements
 
