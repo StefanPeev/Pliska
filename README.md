@@ -31,7 +31,7 @@ This list is in chronological order.
 
 ## License
 
-SIL Open Font License [OFL](documentation/OFL.md)
+[GNU LESSER GENERAL PUBLIC LICENSE](LICENSE)
 
 ## Local Fonts Project
 
