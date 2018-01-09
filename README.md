@@ -35,6 +35,7 @@ SIL Open Font License [OFL](documentation/OFL.md)
 
 ## Local Fonts Project
 
++ [Pliska](https://github.com/StefanPeev/Pliska)
 + [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
 + [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
 + [Coval](https://github.com/StefanPeev/coval)
