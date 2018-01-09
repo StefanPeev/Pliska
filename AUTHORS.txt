@@ -11,3 +11,11 @@ Previous Contributors (sorted alphabetically):
   - Valek Fillipov
   - Yannis Haralambous
 
+Typeface Copyright History:
+  - Michael Sharpe (c) 2015;
+  - Alexey Kryukov (C) 2005;
+  - (URW)++ Design & Development (C) 1999;
+  - Valek Filippov (C) 2001;
+  - Dmitry 40in (C) 2001;
+  - The Omega Project (C) 1996 v. 1997-02-08;
+  - Free Software Foundation (C) 2002, 2003.
