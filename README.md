@@ -6,7 +6,7 @@ Font Pliska with multilingual support for Cyrillic
 ## What's this?
 
 **Pliska** is a part of the project **LOCAL FONTS** for development of <code>free-to-use fonts</code> with the modern Bulgarian letterform model in Cyrillic code range. The project as a whole is based on an existing fonts under licenses which permit modifications and derivative works. Especially Pliska is based on Tempora Font Package. **Pliska** offers improved pan-European WGL character set and multilingual support for Cyrillic Script through extension of the Open Type local features. The aim is **Pliska** to cover GF Cyrillic Plus standart.
-**Pliska** is a free-to-use non-commercial font released under the SIL Open Font License [OFL](documentation/OFL.md).
+**Pliska** is a free-to-use non-commercial font released under [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 ## Credits
 
@@ -31,7 +31,7 @@ This list is in chronological order.
 
 ## License
 
-[GNU LESSER GENERAL PUBLIC LICENSE](LICENSE)
+[GNU GENERAL PUBLIC LICENSE](LICENSE)
 
 ## Local Fonts Project
 
