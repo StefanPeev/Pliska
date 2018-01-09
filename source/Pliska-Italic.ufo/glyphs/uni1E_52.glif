@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E52" format="1">
+  <advance width="721"/>
+  <unicode hex="1E52"/>
+  <outline>
+    <contour>
+      <point x="699" y="423" type="curve" smooth="yes"/>
+      <point x="699" y="213"/>
+      <point x="495" y="-18"/>
+      <point x="279" y="-18" type="curve" smooth="yes"/>
+      <point x="138" y="-18"/>
+      <point x="60" y="94"/>
+      <point x="60" y="227" type="curve" smooth="yes"/>
+      <point x="60" y="422"/>
+      <point x="264" y="666"/>
+      <point x="467" y="666" type="curve" smooth="yes"/>
+      <point x="612" y="666"/>
+      <point x="699" y="565"/>
+    </contour>
+    <contour>
+      <point x="594" y="472" type="curve" smooth="yes"/>
+      <point x="594" y="559"/>
+      <point x="561" y="633"/>
+      <point x="463" y="633" type="curve" smooth="yes"/>
+      <point x="277" y="633"/>
+      <point x="165" y="335"/>
+      <point x="165" y="181" type="curve" smooth="yes"/>
+      <point x="165" y="97"/>
+      <point x="197" y="15"/>
+      <point x="295" y="15" type="curve" smooth="yes"/>
+      <point x="482" y="15"/>
+      <point x="594" y="317"/>
+    </contour>
+    <contour>
+      <point x="673" y="798" type="line"/>
+      <point x="659" y="744" type="line"/>
+      <point x="348" y="744" type="line"/>
+      <point x="362" y="798" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="870" type="line"/>
+      <point x="639" y="1030" type="line" smooth="yes"/>
+      <point x="646" y="1036"/>
+      <point x="654" y="1040"/>
+      <point x="664" y="1040" type="curve" smooth="yes"/>
+      <point x="684" y="1040"/>
+      <point x="700" y="1024"/>
+      <point x="700" y="1004" type="curve" smooth="yes"/>
+      <point x="700" y="992"/>
+      <point x="695" y="983"/>
+      <point x="683" y="976" type="curve" smooth="yes"/>
+      <point x="512" y="870" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-18</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>633</integer>
+            <key>width</key>
+            <integer>33</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>744</integer>
+            <key>width</key>
+            <integer>54</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1020</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>60</integer>
+            <key>width</key>
+            <integer>105</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>594</integer>
+            <key>width</key>
+            <integer>105</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

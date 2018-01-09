@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotabovecomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="-233" y="655" type="curve" smooth="yes"/>
+      <point x="-197" y="655"/>
+      <point x="-167" y="625"/>
+      <point x="-167" y="589" type="curve" smooth="yes"/>
+      <point x="-167" y="555"/>
+      <point x="-198" y="525"/>
+      <point x="-233" y="525" type="curve" smooth="yes"/>
+      <point x="-267" y="525"/>
+      <point x="-297" y="555"/>
+      <point x="-297" y="589" type="curve" smooth="yes"/>
+      <point x="-297" y="625"/>
+      <point x="-268" y="655"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>525</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-297</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

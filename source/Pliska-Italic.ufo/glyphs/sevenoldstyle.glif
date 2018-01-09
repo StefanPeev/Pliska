@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevenoldstyle" format="1">
+  <advance width="500"/>
+  <unicode hex="F737"/>
+  <outline>
+    <contour>
+      <point x="493" y="490" type="line"/>
+      <point x="105" y="-174" type="line"/>
+      <point x="35" y="-174" type="line"/>
+      <point x="402" y="424" type="line"/>
+      <point x="400" y="427" type="line"/>
+      <point x="178" y="427" type="line" smooth="yes"/>
+      <point x="120" y="427"/>
+      <point x="93" y="412"/>
+      <point x="45" y="355" type="curve"/>
+      <point x="31" y="364" type="line"/>
+      <point x="112" y="500" type="line"/>
+      <point x="487" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-174</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>427</integer>
+            <key>width</key>
+            <integer>73</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

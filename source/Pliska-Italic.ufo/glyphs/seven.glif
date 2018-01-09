@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="500"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="537" y="656" type="line"/>
+      <point x="149" y="-8" type="line"/>
+      <point x="79" y="-8" type="line"/>
+      <point x="446" y="590" type="line"/>
+      <point x="444" y="593" type="line"/>
+      <point x="222" y="593" type="line" smooth="yes"/>
+      <point x="164" y="593"/>
+      <point x="137" y="578"/>
+      <point x="89" y="521" type="curve"/>
+      <point x="75" y="530" type="line"/>
+      <point x="156" y="666" type="line"/>
+      <point x="531" y="666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-8</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>593</integer>
+            <key>width</key>
+            <integer>73</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

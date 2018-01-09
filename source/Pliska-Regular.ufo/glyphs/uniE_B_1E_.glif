@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniEB1E" format="1">
+  <advance width="193"/>
+  <unicode hex="EB1E"/>
+  <outline>
+    <contour>
+      <point x="-9" y="547" type="line"/>
+      <point x="-9" y="601" type="line"/>
+      <point x="202" y="601" type="line"/>
+      <point x="202" y="547" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>547</integer>
+            <key>width</key>
+            <integer>54</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
