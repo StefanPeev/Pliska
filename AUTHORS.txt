@@ -2,7 +2,7 @@ AUTHORS
 
 Current Contributors (sorted alphabetically):
   - Stefan Peev  <context dot bg at gmail dot com>
-    Project Owner (reserved font name Libra Sans)
+    Project Owner (reserved font name Pliska)
     Context Ltd.
 
 Previous Contributors (sorted alphabetically):
