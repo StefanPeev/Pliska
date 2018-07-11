@@ -1,1 +1,1 @@
-All releases of Libra Sans could be download at [Local Fonts](https://localfonts.eu/freefonts/bulgarian-cyrillic/pliska/). Please follow the link.
+All releases of Libra Sans could be download at [Local Fonts](https://localfonts.eu/product/pliska/). Please follow the link.
