@@ -1,82 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omicrontonos" format="1">
-  <advance width="807"/>
+<glyph name="Omicrontonos" format="2">
+  <advance width="722"/>
   <unicode hex="038C"/>
   <outline>
-    <contour>
-      <point x="0" y="462" type="line"/>
-      <point x="45" y="636" type="line" smooth="yes"/>
-      <point x="51" y="659"/>
-      <point x="65" y="677"/>
-      <point x="93" y="677" type="curve" smooth="yes"/>
-      <point x="109" y="677"/>
-      <point x="128" y="670"/>
-      <point x="128" y="638" type="curve" smooth="yes"/>
-      <point x="128" y="608"/>
-      <point x="33" y="477"/>
-      <point x="24" y="462" type="curve"/>
-    </contour>
-    <contour>
-      <point x="119" y="330" type="curve" smooth="yes"/>
-      <point x="119" y="524"/>
-      <point x="247" y="676"/>
-      <point x="446" y="676" type="curve" smooth="yes"/>
-      <point x="645" y="676"/>
-      <point x="773" y="524"/>
-      <point x="773" y="330" type="curve" smooth="yes"/>
-      <point x="773" y="136"/>
-      <point x="645" y="-14"/>
-      <point x="446" y="-14" type="curve" smooth="yes"/>
-      <point x="247" y="-14"/>
-      <point x="119" y="136"/>
-    </contour>
-    <contour>
-      <point x="233" y="331" type="curve" smooth="yes"/>
-      <point x="233" y="195"/>
-      <point x="280" y="22"/>
-      <point x="446" y="22" type="curve" smooth="yes"/>
-      <point x="612" y="22"/>
-      <point x="659" y="195"/>
-      <point x="659" y="331" type="curve" smooth="yes"/>
-      <point x="659" y="465"/>
-      <point x="610" y="640"/>
-      <point x="446" y="640" type="curve" smooth="yes"/>
-      <point x="282" y="640"/>
-      <point x="233" y="465"/>
-    </contour>
+    <component base="Omicron"/>
+    <component base="acutecomb" xOffset="572" yOffset="212"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-14</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>462</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>640</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>657</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>36</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>462</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>640</integer>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>657</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

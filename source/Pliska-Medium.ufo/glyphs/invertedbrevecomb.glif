@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="invertedbrevecomb" format="2">
+  <unicode hex="0311"/>
+  <outline>
+    <contour>
+      <point x="-398.333" y="514" type="line"/>
+      <point x="-398" y="626"/>
+      <point x="-327.667" y="669"/>
+      <point x="-258" y="669" type="curve" smooth="yes"/>
+      <point x="-188.333" y="669"/>
+      <point x="-120" y="625"/>
+      <point x="-118" y="514" type="curve"/>
+      <point x="-151.333" y="514" type="line"/>
+      <point x="-162.667" y="573"/>
+      <point x="-197.333" y="605"/>
+      <point x="-257.667" y="605" type="curve" smooth="yes"/>
+      <point x="-317.667" y="605"/>
+      <point x="-355" y="573.667"/>
+      <point x="-365" y="514" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>600</integer>
+        <key>width</key>
+        <integer>58</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

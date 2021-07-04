@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yhookabove" format="2">
+  <advance width="500"/>
+  <unicode hex="1EF7"/>
+  <outline>
+    <component base="y"/>
+    <component base="hookabovecomb" xOffset="515.5"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-218</integer>
+        <key>width</key>
+        <integer>102</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>435</integer>
+        <key>width</key>
+        <integer>15</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>676</integer>
+        <key>width</key>
+        <integer>19</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>163</integer>
+        <key>width</key>
+        <integer>62</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>301</integer>
+        <key>width</key>
+        <integer>61</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

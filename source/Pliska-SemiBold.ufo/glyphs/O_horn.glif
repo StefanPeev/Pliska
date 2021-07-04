@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn" format="2">
+  <advance width="789"/>
+  <unicode hex="01A0"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="570.667" y="630.333" type="line" smooth="yes"/>
+      <point x="607.389" y="630.433"/>
+      <point x="656.667" y="637.679"/>
+      <point x="656.667" y="668.229" type="curve" smooth="yes"/>
+      <point x="656.667" y="679.966"/>
+      <point x="649.297" y="688.398"/>
+      <point x="641.054" y="697.82" type="curve" smooth="yes"/>
+      <point x="628.635" y="712.135"/>
+      <point x="618.667" y="725.091"/>
+      <point x="618.667" y="747.092" type="curve" smooth="yes"/>
+      <point x="618.667" y="786"/>
+      <point x="650.333" y="805.667"/>
+      <point x="680.517" y="805.667" type="curve" smooth="yes"/>
+      <point x="721.333" y="805.667"/>
+      <point x="744" y="770.333"/>
+      <point x="744" y="728.656" type="curve" smooth="yes"/>
+      <point x="744" y="657"/>
+      <point x="676.995" y="610.884"/>
+      <point x="596.667" y="610.333" type="curve" smooth="yes"/>
+      <point x="550.161" y="610.017" type="line"/>
+      <point x="549.756" y="630.437" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>640</integer>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>34</integer>
+        <key>width</key>
+        <integer>114</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>564</integer>
+        <key>width</key>
+        <integer>104</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>574</integer>
+        <key>width</key>
+        <integer>114</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

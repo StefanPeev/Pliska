@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni022B" format="2">
+  <advance width="500"/>
+  <unicode hex="022B"/>
+  <outline>
+    <component base="odieresis"/>
+    <component base="macron" xOffset="21.3333"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>28</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>432</integer>
+        <key>width</key>
+        <integer>28</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>682</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>29</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>380</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

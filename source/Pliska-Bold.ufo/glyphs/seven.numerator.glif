@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="seven.numerator" format="1">
+<glyph name="seven.numerator" format="2">
   <advance width="335"/>
   <outline>
     <contour>
       <point x="11" y="524" type="line"/>
       <point x="43" y="681" type="line"/>
-      <point x="320" y="681" type="line"/>
+      <point x="313" y="681" type="line"/>
+      <point x="312.719" y="659.951" type="line"/>
       <point x="164" y="230" type="line"/>
       <point x="100" y="230" type="line"/>
       <point x="234" y="578" type="line"/>
@@ -16,28 +17,28 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>578</integer>
-            <key>width</key>
-            <integer>103</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>11</integer>
-            <key>width</key>
-            <integer>19</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>613</integer>
+        <key>width</key>
+        <integer>56</integer>
       </dict>
-    </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>114</integer>
+        <key>width</key>
+        <integer>49</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

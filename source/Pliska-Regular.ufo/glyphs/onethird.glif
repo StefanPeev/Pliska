@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="onethird" format="1">
+<glyph name="onethird" format="2">
   <advance width="750"/>
   <unicode hex="2153"/>
   <outline>
@@ -84,25 +84,25 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-3</integer>
-            <key>width</key>
-            <integer>48</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>355</integer>
-            <key>width</key>
-            <integer>56</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>48</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>355</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

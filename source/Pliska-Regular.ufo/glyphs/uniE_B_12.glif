@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniEB12" format="1">
+<glyph name="uniEB12" format="2">
   <advance width="267"/>
   <unicode hex="EB12"/>
   <outline>
@@ -27,31 +27,31 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>507</integer>
-            <key>width</key>
-            <integer>54</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>507</integer>
-            <key>width</key>
-            <integer>97</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>550</integer>
-            <key>width</key>
-            <integer>54</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>507</integer>
+        <key>width</key>
+        <integer>54</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>507</integer>
+        <key>width</key>
+        <integer>97</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>550</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="2">
+  <advance width="403"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <component base="guilsinglleft" xScale="1" xyScale="4.39799e-33" xOffset="183.333" yOffset="4.64221e-13"/>
+    <component base="guilsinglleft" xyScale="-3.94921e-33" xOffset="-14" yOffset="2.08426e-13"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>33</integer>
+        <key>width</key>
+        <integer>383</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>42</integer>
+        <key>width</key>
+        <integer>414</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

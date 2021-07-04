@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravebelowcomb" format="2">
+  <unicode hex="0316"/>
+  <outline>
+    <contour>
+      <point x="-334" y="-221" type="line"/>
+      <point x="-190.333" y="-70" type="line" smooth="yes"/>
+      <point x="-172.667" y="-51.6667"/>
+      <point x="-161" y="-45.3333"/>
+      <point x="-144.667" y="-45.3333" type="curve" smooth="yes"/>
+      <point x="-120.333" y="-45.3333"/>
+      <point x="-105.333" y="-59.3333"/>
+      <point x="-105.333" y="-81.3333" type="curve" smooth="yes"/>
+      <point x="-105.333" y="-99.6667"/>
+      <point x="-114" y="-111.667"/>
+      <point x="-138.667" y="-127" type="curve" smooth="yes"/>
+      <point x="-288.667" y="-221" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-65</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

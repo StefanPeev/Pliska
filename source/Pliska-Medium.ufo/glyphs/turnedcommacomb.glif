@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="turnedcommacomb" format="2">
+  <unicode hex="0312"/>
+  <outline>
+    <contour>
+      <point x="-332.667" y="608.333" type="curve" smooth="yes"/>
+      <point x="-332.667" y="676.333"/>
+      <point x="-289.667" y="724.667"/>
+      <point x="-208.333" y="761" type="curve"/>
+      <point x="-199" y="742" type="line"/>
+      <point x="-258.333" y="711.333"/>
+      <point x="-286.333" y="679.667"/>
+      <point x="-286.333" y="646.667" type="curve" smooth="yes"/>
+      <point x="-286.333" y="638"/>
+      <point x="-279.667" y="631"/>
+      <point x="-271.333" y="631" type="curve"/>
+      <point x="-270.268" y="631"/>
+      <point x="-268.544" y="630.945"/>
+      <point x="-262.72" y="632.421" type="curve"/>
+      <point x="-257.526" y="633.319"/>
+      <point x="-254.015" y="634.333"/>
+      <point x="-247.333" y="634.333" type="curve" smooth="yes"/>
+      <point x="-211.667" y="634.333"/>
+      <point x="-185.667" y="612.333"/>
+      <point x="-185.667" y="576.667" type="curve" smooth="yes"/>
+      <point x="-185.667" y="539.667"/>
+      <point x="-213" y="514"/>
+      <point x="-250" y="514" type="curve" smooth="yes"/>
+      <point x="-298" y="514"/>
+      <point x="-332.667" y="554"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>507</integer>
+        <key>width</key>
+        <integer>108</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-318</integer>
+        <key>width</key>
+        <integer>39</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anoteleia" format="1">
+  <advance width="250"/>
+  <unicode hex="0387"/>
+  <outline>
+    <contour>
+      <point x="66" y="411" type="curve" smooth="yes"/>
+      <point x="66" y="444"/>
+      <point x="92" y="470"/>
+      <point x="125" y="470" type="curve" smooth="yes"/>
+      <point x="158" y="470"/>
+      <point x="184" y="444"/>
+      <point x="184" y="411" type="curve" smooth="yes"/>
+      <point x="184" y="378"/>
+      <point x="158" y="352"/>
+      <point x="125" y="352" type="curve" smooth="yes"/>
+      <point x="92" y="352"/>
+      <point x="66" y="378"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>352</integer>
+            <key>width</key>
+            <integer>118</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>66</integer>
+            <key>width</key>
+            <integer>118</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

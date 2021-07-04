@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="2">
+  <advance width="328"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="50" y="654" type="curve" smooth="yes"/>
+      <point x="50" y="675"/>
+      <point x="65.6667" y="689.667"/>
+      <point x="88.3333" y="689.667" type="curve" smooth="yes"/>
+      <point x="104.667" y="689.667"/>
+      <point x="117" y="683"/>
+      <point x="134.333" y="665" type="curve" smooth="yes"/>
+      <point x="278" y="514" type="line"/>
+      <point x="232.667" y="514" type="line"/>
+      <point x="82.6667" y="608" type="line" smooth="yes"/>
+      <point x="61" y="622"/>
+      <point x="50" y="636.667"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>658</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>40</integer>
+        <key>width</key>
+        <integer>223</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
