@@ -34,8 +34,13 @@ If you make modifications be sure to add <code>your name</code> (N), <code>email
 
 ### Local Fonts Project
 
-+ [Pliska](https://github.com/StefanPeev/Pliska)
-+ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
-+ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
 + [Coval](https://github.com/StefanPeev/coval)
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
++ [Perun](https://github.com/StefanPeev/Perun)
++ [Pliska](https://github.com/StefanPeev/Pliska)
 + [Veleka](https://github.com/StefanPeev/Veleka)
+
+### Donations
+
+If you apreciate the project, please feel free to donate: [PayPal](https://www.paypal.me/localfonts).
