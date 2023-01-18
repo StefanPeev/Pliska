@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="four" format="1">
+<glyph name="four" format="2">
   <advance width="500"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
       <point x="19" y="144" type="line"/>
       <point x="19" y="257" type="line"/>
-      <point x="79" y="352"/>
-      <point x="145" y="444"/>
-      <point x="273" y="611" type="curve" smooth="yes"/>
       <point x="332" y="688" type="line"/>
       <point x="412" y="688" type="line"/>
       <point x="412" y="255" type="line"/>
@@ -21,45 +18,45 @@
     </contour>
     <contour>
       <point x="60" y="255" type="line"/>
-      <point x="269" y="255" type="line"/>
-      <point x="269" y="552" type="line"/>
+      <point x="267" y="255" type="line"/>
+      <point x="267" y="537" type="line"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>144</integer>
-            <key>width</key>
-            <integer>111</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>668</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>267</integer>
-            <key>width</key>
-            <integer>145</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>167</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>656</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>292</integer>
+        <key>width</key>
+        <integer>78</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

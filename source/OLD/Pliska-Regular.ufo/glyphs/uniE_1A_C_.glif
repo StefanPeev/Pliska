@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniE1AC" format="1">
+<glyph name="uniE1AC" format="2">
   <advance width="873"/>
   <unicode hex="E1AC"/>
   <outline>
@@ -51,7 +51,7 @@
       <point x="677" y="558" type="curve" smooth="yes"/>
       <point x="677" y="570"/>
       <point x="681" y="585"/>
-      <point x="687" y="593" type="curve" smooth="yes"/>
+      <point x="687" y="593" type="curve"/>
       <point x="693" y="600"/>
       <point x="699" y="605"/>
       <point x="699" y="615" type="curve" smooth="yes"/>
@@ -80,28 +80,28 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>588</integer>
-            <key>width</key>
-            <integer>89</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>120</integer>
-            <key>width</key>
-            <integer>45</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>588</integer>
+        <key>width</key>
+        <integer>89</integer>
       </dict>
-    </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>120</integer>
+        <key>width</key>
+        <integer>45</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

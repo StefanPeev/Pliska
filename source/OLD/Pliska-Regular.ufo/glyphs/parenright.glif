@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenright" format="1">
+<glyph name="parenright" format="2">
   <advance width="333"/>
   <unicode hex="0029"/>
   <outline>
@@ -33,19 +33,19 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>vhints</key>
+    <array>
       <dict>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>199</integer>
-            <key>width</key>
-            <integer>86</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>199</integer>
+        <key>width</key>
+        <integer>86</integer>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

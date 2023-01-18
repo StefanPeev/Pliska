@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniF6D9" format="1">
+<glyph name="uniF6D9" format="2">
   <advance width="333"/>
   <unicode hex="F6D9"/>
   <outline>
@@ -21,19 +21,19 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>615</integer>
-            <key>width</key>
-            <integer>76</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>600</integer>
+        <key>width</key>
+        <integer>58</integer>
       </dict>
-    </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

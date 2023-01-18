@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni2329" format="1">
+<glyph name="uni2329" format="2">
   <advance width="394"/>
   <unicode hex="2329"/>
   <outline>
     <contour>
       <point x="22" y="259" type="line"/>
       <point x="22" y="263" type="line"/>
-      <point x="287" y="668" type="line" smooth="yes"/>
+      <point x="89.6798" y="366.435"/>
+      <point x="246.022" y="605.373"/>
+      <point x="287" y="668" type="curve" smooth="yes"/>
       <point x="302" y="690"/>
       <point x="316" y="698"/>
       <point x="327" y="698" type="curve" smooth="yes"/>
@@ -15,9 +17,11 @@
       <point x="340" y="684" type="curve" smooth="yes"/>
       <point x="340" y="674"/>
       <point x="316" y="616"/>
-      <point x="286" y="546" type="curve" smooth="yes"/>
+      <point x="286" y="546" type="curve"/>
       <point x="158" y="261" type="line"/>
-      <point x="286" y="-21" type="line" smooth="yes"/>
+      <point x="195.063" y="179.345"/>
+      <point x="285.113" y="-19.0458"/>
+      <point x="286" y="-21" type="curve" smooth="yes"/>
       <point x="316" y="-91"/>
       <point x="340" y="-149"/>
       <point x="340" y="-160" type="curve" smooth="yes"/>
@@ -30,25 +34,25 @@
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-174</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>678</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-180</integer>
+        <key>width</key>
+        <integer>21</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>660</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>

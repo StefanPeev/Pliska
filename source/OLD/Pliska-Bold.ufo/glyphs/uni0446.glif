@@ -1,96 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni0446" format="1">
+<glyph name="uni0446" format="2">
   <advance width="574"/>
   <unicode hex="0446"/>
   <outline>
     <contour>
-      <point x="10" y="437" type="curve"/>
-      <point x="10" y="461" type="line"/>
-      <point x="206" y="461" type="line"/>
-      <point x="206" y="133" type="line" smooth="yes"/>
-      <point x="206" y="77"/>
-      <point x="223" y="49"/>
-      <point x="259" y="49" type="curve" smooth="yes"/>
-      <point x="285" y="49"/>
-      <point x="311" y="63"/>
-      <point x="337" y="93" type="curve"/>
-      <point x="337" y="382" type="line" smooth="yes"/>
-      <point x="337" y="416"/>
-      <point x="317" y="434"/>
-      <point x="277" y="437" type="curve"/>
-      <point x="277" y="461" type="line"/>
-      <point x="480" y="461" type="line"/>
-      <point x="480" y="102" type="line" smooth="yes"/>
-      <point x="480" y="80"/>
-      <point x="486" y="64"/>
-      <point x="498" y="55" type="curve" smooth="yes"/>
-      <point x="510" y="47"/>
-      <point x="525" y="42"/>
-      <point x="550" y="39" type="curve"/>
-      <point x="520" y="-124" type="line"/>
-      <point x="466" y="-124" type="line"/>
-      <point x="464" y="-7" type="line"/>
-      <point x="431" y="-7"/>
-      <point x="407" y="-2"/>
-      <point x="390" y="6" type="curve" smooth="yes"/>
-      <point x="372" y="16"/>
-      <point x="355" y="34"/>
-      <point x="342" y="61" type="curve"/>
-      <point x="294" y="8"/>
-      <point x="243" y="-19"/>
-      <point x="185" y="-19" type="curve" smooth="yes"/>
-      <point x="103" y="-19"/>
-      <point x="61" y="34"/>
-      <point x="61" y="141" type="curve" smooth="yes"/>
-      <point x="61" y="369" type="line" smooth="yes"/>
-      <point x="61" y="393"/>
-      <point x="58" y="407"/>
-      <point x="54" y="417" type="curve" smooth="yes"/>
-      <point x="47" y="427"/>
-      <point x="32" y="434"/>
+      <point x="21" y="0" type="curve"/>
+      <point x="21" y="24" type="line"/>
+      <point x="60" y="27"/>
+      <point x="70" y="39"/>
+      <point x="70" y="81" type="curve" smooth="yes"/>
+      <point x="70" y="380" type="line" smooth="yes"/>
+      <point x="70" y="422"/>
+      <point x="60" y="434"/>
+      <point x="21" y="437" type="curve"/>
+      <point x="21" y="461" type="line"/>
+      <point x="256" y="461" type="line"/>
+      <point x="256" y="437" type="line"/>
+      <point x="222" y="433"/>
+      <point x="209" y="417"/>
+      <point x="209" y="380" type="curve"/>
+      <point x="208.898" y="78.3156" type="line"/>
+      <point x="208.898" y="53.168"/>
+      <point x="211.72" y="32"/>
+      <point x="247" y="32" type="curve" smooth="yes"/>
+      <point x="311" y="32" type="line" smooth="yes"/>
+      <point x="346.28" y="32"/>
+      <point x="349.102" y="53.168"/>
+      <point x="349.102" y="78.3156" type="curve"/>
+      <point x="349" y="380" type="line"/>
+      <point x="349" y="417"/>
+      <point x="337" y="432"/>
+      <point x="300" y="437" type="curve"/>
+      <point x="300" y="461" type="line"/>
+      <point x="541" y="461" type="line"/>
+      <point x="541" y="437" type="line"/>
+      <point x="496" y="428"/>
+      <point x="488" y="419"/>
+      <point x="488" y="377" type="curve" smooth="yes"/>
+      <point x="488" y="89" type="line" smooth="yes"/>
+      <point x="488" y="52"/>
+      <point x="501" y="36"/>
+      <point x="535" y="32" type="curve"/>
+      <point x="542" y="-142" type="line"/>
+      <point x="516" y="-142" type="line"/>
+      <point x="491.255" y="-47.9696"/>
+      <point x="465.531" y="0.0153122"/>
+      <point x="329.251" y="0.0153122" type="curve" smooth="yes"/>
+      <point x="227.918" y="0.0153122"/>
+      <point x="122.333" y="0"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-124</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-14</integer>
-            <key>width</key>
-            <integer>71</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>462</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>64</integer>
-            <key>width</key>
-            <integer>150</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>351</integer>
-            <key>width</key>
-            <integer>149</integer>
-          </dict>
-        </array>
+        <key>position</key>
+        <integer>-125</integer>
+        <key>width</key>
+        <integer>21</integer>
       </dict>
-    </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>15</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>30</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>435</integer>
+        <key>width</key>
+        <integer>15</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>360</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>492</integer>
+        <key>width</key>
+        <integer>18</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
   </lib>
 </glyph>
