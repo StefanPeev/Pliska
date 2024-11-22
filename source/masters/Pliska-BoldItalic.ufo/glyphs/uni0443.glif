@@ -2,8 +2,6 @@
 <glyph name="uni0443" format="2">
   <advance width="532"/>
   <unicode hex="0443"/>
-  <anchor x="309" y="516" name="top"/>
-  <anchor x="309" y="516" name="macron"/>
   <outline>
     <contour>
       <point x="15" y="69" type="curve" smooth="yes"/>

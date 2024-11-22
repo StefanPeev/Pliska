@@ -36,7 +36,6 @@
       <point x="22" y="366" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="350"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

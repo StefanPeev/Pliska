@@ -2,9 +2,6 @@
 <glyph name="dotlessi" format="2">
   <advance width="278"/>
   <unicode hex="0131"/>
-  <anchor x="182.532" y="516" name="top"/>
-  <anchor x="182.532" y="516" name="macron"/>
-  <anchor x="133.599" y="10" name="ogonek"/>
   <outline>
     <contour>
       <point x="2" y="58" type="curve" smooth="yes"/>

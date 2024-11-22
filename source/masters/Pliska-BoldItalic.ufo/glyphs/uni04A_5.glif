@@ -59,7 +59,6 @@
       <point x="71.3575" y="309.945" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="254.65" x="42" y="204"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

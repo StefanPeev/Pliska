@@ -315,7 +315,7 @@ You should have received a copy of the GNU General Public License along with thi
   </dict>
   </array>
   <key>openTypeNameVersion</key>
-  <string>Version 1.040</string>
+  <string>Version 1.041</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -483,7 +483,7 @@ You should have received a copy of the GNU General Public License along with thi
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>40</integer>
+  <integer>41</integer>
   <key>xHeight</key>
   <integer>442</integer>
 </dict>

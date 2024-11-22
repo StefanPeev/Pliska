@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_corner.UC_I_TR" format="2">
   <advance width="197"/>
-  <anchor x="156" y="669" name="origin"/>
-  <anchor x="156" y="538" name="left"/>
-  <anchor x="85" y="669" name="right"/>
   <outline>
     <contour>
       <point x="155.801" y="537.65" type="move"/>

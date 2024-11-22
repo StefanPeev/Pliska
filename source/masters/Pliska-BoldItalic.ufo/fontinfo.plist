@@ -30,7 +30,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>-70</integer>
+    <integer>668</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -38,7 +38,17 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>103</integer>
+    <integer>516</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>ascender1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>383</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -54,7 +64,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>516</integer>
+    <integer>103</integer>
   </dict>
   <dict>
     <key>angle</key>
@@ -62,17 +72,7 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
-    <integer>668</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>ascender1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>383</integer>
+    <integer>-70</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -333,7 +333,7 @@ You should have received a copy of the GNU General Public License along with thi
   </dict>
   </array>
   <key>openTypeNameVersion</key>
-  <string>Version 1.040</string>
+  <string>Version 1.041</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -503,7 +503,7 @@ You should have received a copy of the GNU General Public License along with thi
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>40</integer>
+  <integer>41</integer>
   <key>xHeight</key>
   <integer>462</integer>
 </dict>

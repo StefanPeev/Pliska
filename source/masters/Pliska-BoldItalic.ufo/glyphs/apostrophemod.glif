@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="apostrophemod" format="2">
   <advance width="199"/>
-  <anchor x="272.601" y="685" name="_t.apo"/>
   <outline>
     <contour>
       <point x="48.5806" y="369" type="line"/>
@@ -25,5 +24,4 @@
       <point x="35.5806" y="393" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="685"/>
 </glyph>

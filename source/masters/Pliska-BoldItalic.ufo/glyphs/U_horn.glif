@@ -2,10 +2,6 @@
 <glyph name="Uhorn" format="2">
   <advance width="799"/>
   <unicode hex="01AF"/>
-  <anchor x="483.248" y="723" name="top"/>
-  <anchor x="290" y="-70" name="bottom"/>
-  <anchor x="483.248" y="723" name="t.ring"/>
-  <anchor x="483.248" y="723" name="t.top"/>
   <outline>
     <contour>
       <point x="668.613" y="639.333" type="line"/>
@@ -70,7 +66,6 @@
       <point x="67" y="180.182"/>
     </contour>
   </outline>
-  <guideline angle="73.8557" x="576" y="263"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

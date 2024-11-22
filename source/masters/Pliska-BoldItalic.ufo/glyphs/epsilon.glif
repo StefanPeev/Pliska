@@ -2,9 +2,6 @@
 <glyph name="epsilon" format="2">
   <advance width="430"/>
   <unicode hex="03B5"/>
-  <anchor x="245" y="523" name="b.tonos"/>
-  <anchor x="253" y="523" name="top.gr"/>
-  <anchor x="79" y="-50" name="b.ypogegrammeni"/>
   <outline>
     <contour>
       <point x="-24" y="106.069" type="curve" smooth="yes"/>

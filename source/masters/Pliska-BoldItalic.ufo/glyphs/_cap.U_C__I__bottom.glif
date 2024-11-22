@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_cap.UC_I_bottom" format="2">
   <advance width="334"/>
-  <anchor x="3" y="0" name="node1"/>
-  <anchor x="151" y="0" name="node2"/>
   <outline>
     <contour>
       <point x="39.78" y="133.35" type="move"/>
@@ -39,14 +37,6 @@
       <point x="187.99" y="133.35" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="133"/>
-  <guideline angle="0" x="0" y="25"/>
-  <guideline angle="0" x="0" y="31"/>
-  <guideline angle="254.476" x="188" y="133"/>
-  <guideline angle="90" x="40" y="0"/>
-  <guideline angle="0" x="0" y="113"/>
-  <guideline angle="90" x="188" y="0"/>
-  <guideline angle="254.476" x="40" y="133"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

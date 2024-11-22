@@ -2,9 +2,6 @@
 <glyph name="iota" format="2">
   <advance width="320"/>
   <unicode hex="03B9"/>
-  <anchor x="178.288" y="523" name="b.tonos"/>
-  <anchor x="178" y="523" name="top.gr"/>
-  <anchor x="17" y="-50" name="b.ypogegrammeni"/>
   <outline>
     <contour>
       <point x="3" y="54" type="curve" smooth="yes"/>
@@ -31,7 +28,6 @@
       <point x="3" y="72.972"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="523"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

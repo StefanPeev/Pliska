@@ -33,8 +33,6 @@
       <point x="32" y="226" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="78.287" x="126.156" y="0"/>
-  <guideline angle="258.44" x="180" y="338"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

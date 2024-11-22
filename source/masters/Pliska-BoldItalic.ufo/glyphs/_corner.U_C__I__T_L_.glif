@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_corner.UC_I_TL" format="2">
   <advance width="113"/>
-  <anchor x="168" y="669" name="origin"/>
-  <anchor x="185" y="669" name="left"/>
-  <anchor x="132" y="538" name="right"/>
   <outline>
     <contour>
       <point x="168.37" y="669" type="move"/>
@@ -18,10 +15,6 @@
       <point x="132.261" y="537.656" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="538"/>
-  <guideline angle="90" x="85" y="0"/>
-  <guideline angle="90" x="132" y="0"/>
-  <guideline angle="74.6339" x="132" y="538"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

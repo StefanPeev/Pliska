@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0300" format="2">
   <unicode hex="0300"/>
-  <anchor x="-245" y="516" name="_top"/>
-  <anchor x="-245" y="516" name="_t.top"/>
   <outline>
     <contour>
       <point x="-208" y="516" type="line"/>
@@ -19,7 +17,6 @@
       <point x="-341" y="605" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="516"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

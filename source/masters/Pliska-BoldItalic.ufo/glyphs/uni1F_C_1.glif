@@ -2,7 +2,6 @@
 <glyph name="uni1FC1" format="2">
   <advance width="377"/>
   <unicode hex="1FC1"/>
-  <anchor x="231" y="468" name="_top.gr"/>
   <outline>
     <contour>
       <point x="435" y="768" type="curve"/>

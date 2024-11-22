@@ -2,7 +2,6 @@
 <glyph name="Gamma" format="2">
   <advance width="624"/>
   <unicode hex="0393"/>
-  <anchor x="395.521" y="723" name="top"/>
   <outline>
     <contour>
       <point x="-17" y="0" type="line"/>

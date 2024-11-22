@@ -2,8 +2,6 @@
 <glyph name="N" format="2">
   <advance width="722"/>
   <unicode hex="004E"/>
-  <anchor x="479.966" y="723" name="top"/>
-  <anchor x="264.505" y="-70" name="bottom"/>
   <outline>
     <contour>
       <point x="-29" y="0" type="line"/>
@@ -44,7 +42,6 @@
       <point x="-29" y="25" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="254.8" x="319.661" y="133"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

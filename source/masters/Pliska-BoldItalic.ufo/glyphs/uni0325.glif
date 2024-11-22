@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0325" format="2">
   <unicode hex="0325"/>
-  <anchor x="-435" y="-44" name="_b.ring"/>
   <outline>
     <contour>
       <point x="-435" y="-44" type="curve" smooth="yes"/>

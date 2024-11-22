@@ -2,8 +2,6 @@
 <glyph name="oslash" format="2">
   <advance width="500"/>
   <unicode hex="00F8"/>
-  <anchor x="261.467" y="516" name="top"/>
-  <anchor x="261.467" y="516" name="macron"/>
   <outline>
     <contour>
       <point x="2" y="-119" type="line"/>

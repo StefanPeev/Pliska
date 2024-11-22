@@ -2,9 +2,6 @@
 <glyph name="D" format="2">
   <advance width="744"/>
   <unicode hex="0044"/>
-  <anchor x="286.646" y="10" name="cedilla"/>
-  <anchor x="458.662" y="723" name="top"/>
-  <anchor x="274.307" y="-70" name="bottom"/>
   <outline>
     <contour>
       <point x="108.697" y="0" type="line"/>
@@ -57,8 +54,6 @@
       <point x="178.233" y="537.664" type="line"/>
     </contour>
   </outline>
-  <guideline angle="74.5" x="439.247" y="652.99"/>
-  <guideline angle="254.622" x="292.697" y="669"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

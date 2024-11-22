@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni032F" format="2">
   <unicode hex="032F"/>
-  <anchor x="-414" y="-44" name="_bottom"/>
   <outline>
     <contour>
       <point x="-303" y="-207" type="line"/>
@@ -23,7 +22,6 @@
       <point x="-347" y="-207" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="-44"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

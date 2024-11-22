@@ -2,9 +2,6 @@
 <glyph name="omicron" format="2">
   <advance width="536"/>
   <unicode hex="03BF"/>
-  <anchor x="323" y="523" name="top.gr"/>
-  <anchor x="118" y="-50" name="b.ypogegrammeni"/>
-  <anchor x="323" y="523" name="b.tonos"/>
   <outline>
     <contour>
       <point x="180" y="-13" type="curve" smooth="yes"/>

@@ -28,6 +28,36 @@
     <key>angle</key>
     <integer>0</integer>
     <key>name</key>
+    <string>t1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>1022</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>t</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>735</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>523</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
     <string>b</string>
     <key>x</key>
     <integer>0</integer>
@@ -56,16 +86,6 @@
   </dict>
   <dict>
     <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>523</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
     <integer>90</integer>
     <key>name</key>
     <string>f2</string>
@@ -73,26 +93,6 @@
     <integer>-120</integer>
     <key>y</key>
     <integer>0</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>t</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>735</integer>
-  </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>t1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>1022</integer>
   </dict>
   </array>
   <key>italicAngle</key>
@@ -150,7 +150,7 @@ You should have received a copy of the GNU General Public License along with thi
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.040</string>
+  <string>Version 1.041</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -320,7 +320,7 @@ You should have received a copy of the GNU General Public License along with thi
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>40</integer>
+  <integer>41</integer>
   <key>xHeight</key>
   <integer>460</integer>
 </dict>

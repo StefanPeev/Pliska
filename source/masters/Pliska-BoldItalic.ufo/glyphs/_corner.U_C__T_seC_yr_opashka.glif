@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_corner.UC_TseCyr_opashka" format="2">
   <advance width="234"/>
-  <anchor x="58" y="0" name="origin"/>
-  <anchor x="-58" y="0" name="left"/>
-  <anchor x="112" y="200" name="right"/>
   <outline>
     <contour>
       <point x="-58" y="0" type="move"/>
@@ -24,10 +21,6 @@
       <point x="112" y="200" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="-58" y="0"/>
-  <guideline angle="90" x="155" y="0"/>
-  <guideline angle="74.8355" x="9.19626" y="-180"/>
-  <guideline angle="0" x="0" y="200"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

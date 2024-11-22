@@ -2,8 +2,6 @@
 <glyph name="uni1FFE" format="2">
   <advance width="203"/>
   <unicode hex="1FFE"/>
-  <anchor x="157" y="468" name="_top.gr"/>
-  <anchor x="251" y="690" name="_gr.diacritics"/>
   <outline>
     <contour>
       <point x="193" y="588" type="curve" smooth="yes"/>
@@ -30,7 +28,6 @@
       <point x="173.639" y="588"/>
     </contour>
   </outline>
-  <guideline angle="90" x="251" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

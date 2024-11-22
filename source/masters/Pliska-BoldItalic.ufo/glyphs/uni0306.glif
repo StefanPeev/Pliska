@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0306" format="2">
   <unicode hex="0306"/>
-  <anchor x="-267" y="516" name="_top"/>
-  <anchor x="-204.158" y="679" name="t.top"/>
-  <anchor x="-258.09" y="626" name="t.hook"/>
-  <anchor x="-267" y="516" name="_top.gr"/>
   <outline>
     <contour>
       <point x="-74" y="679" type="curve"/>
