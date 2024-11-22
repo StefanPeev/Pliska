@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyrgrave" format="2">
+  <advance width="644"/>
+  <outline>
+    <component base="uni044A"/>
+    <component base="uni0300" xOffset="564.68"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni044A+uni0300</string>
+  </dict>
+  </lib>
+</glyph>

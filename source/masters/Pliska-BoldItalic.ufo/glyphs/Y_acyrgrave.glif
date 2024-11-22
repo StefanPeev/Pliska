@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacyrgrave" format="2">
+  <advance width="779"/>
+  <outline>
+    <component base="uni042F"/>
+    <component base="uni0300" xOffset="821" yOffset="207"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni042F+uni0300</string>
+  </dict>
+  </lib>
+</glyph>

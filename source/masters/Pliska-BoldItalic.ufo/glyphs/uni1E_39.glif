@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E39" format="2">
+  <advance width="278"/>
+  <unicode hex="1E39"/>
+  <anchor x="226" y="755" name="top"/>
+  <anchor x="504.756" y="685" name="t.apo"/>
+  <anchor x="306.667" y="374.727" name="ldot"/>
+  <outline>
+    <component base="uni1E37"/>
+    <component base="uni0304" xOffset="464" yOffset="202"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-185</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-9</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>764</integer>
+        <key>width</key>
+        <integer>70</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-17</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>2</integer>
+        <key>width</key>
+        <integer>121</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni1E37+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.dnom" format="2">
+  <advance width="347"/>
+  <outline>
+    <contour>
+      <point x="7.28116" y="135" type="curve" smooth="yes"/>
+      <point x="7.28116" y="26"/>
+      <point x="76.2812" y="-10"/>
+      <point x="133.281" y="-10" type="curve" smooth="yes"/>
+      <point x="252.281" y="-10"/>
+      <point x="308.281" y="103"/>
+      <point x="308.281" y="171" type="curve" smooth="yes"/>
+      <point x="308.281" y="266"/>
+      <point x="237.281" y="294"/>
+      <point x="190.281" y="294" type="curve" smooth="yes"/>
+      <point x="164.55" y="294"/>
+      <point x="151.765" y="289.242"/>
+      <point x="129.281" y="278" type="curve"/>
+      <point x="126.281" y="280" type="line"/>
+      <point x="143.281" y="313"/>
+      <point x="227.281" y="425"/>
+      <point x="348.281" y="440" type="curve"/>
+      <point x="347.281" y="452" type="line"/>
+      <point x="135.281" y="439"/>
+      <point x="7.28116" y="272"/>
+    </contour>
+    <contour>
+      <point x="64.2812" y="100" type="curve" smooth="yes"/>
+      <point x="64.2812" y="183.388"/>
+      <point x="113.347" y="267"/>
+      <point x="162.281" y="267" type="curve" smooth="yes"/>
+      <point x="213.281" y="267"/>
+      <point x="241.281" y="236"/>
+      <point x="241.281" y="182" type="curve" smooth="yes"/>
+      <point x="241.281" y="123"/>
+      <point x="205.281" y="10"/>
+      <point x="129.281" y="10" type="curve" smooth="yes"/>
+      <point x="64.2812" y="10"/>
+      <point x="64.2812" y="83"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-226</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>51</integer>
+        <key>width</key>
+        <integer>27</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>224</integer>
+        <key>width</key>
+        <integer>12</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>20</integer>
+        <key>width</key>
+        <integer>57</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>254</integer>
+        <key>width</key>
+        <integer>67</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

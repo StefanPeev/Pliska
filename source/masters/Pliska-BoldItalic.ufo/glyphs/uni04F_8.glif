@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04F8" format="2">
+  <advance width="987"/>
+  <unicode hex="04F8"/>
+  <anchor x="597.996" y="889" name="macron"/>
+  <anchor x="749.724" y="-70" name="bottom"/>
+  <anchor x="768.6" y="10" name="ogonek"/>
+  <anchor x="739.864" y="692" name="t.tonos"/>
+  <anchor x="598.179" y="886" name="t.top"/>
+  <outline>
+    <component base="uni042B"/>
+    <component base="uni0308" xOffset="752.156" yOffset="207"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>35</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>649</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>406</integer>
+        <key>width</key>
+        <integer>163</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni042B</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042B</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni042B+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

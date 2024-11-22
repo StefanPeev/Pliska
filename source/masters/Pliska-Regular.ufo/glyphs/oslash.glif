@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="2">
+  <advance width="492"/>
+  <unicode hex="00F8"/>
+  <anchor x="246" y="523" name="top"/>
+  <anchor x="276" y="0" name="b.ogonek"/>
+  <outline>
+    <component base="o"/>
+    <contour>
+      <point x="103.994" y="-10" type="line"/>
+      <point x="140.994" y="-10" type="line"/>
+      <point x="159.854" y="22.9332" type="line"/>
+      <point x="167.961" y="42.1798" type="line"/>
+      <point x="344.974" y="379.28" type="line"/>
+      <point x="365.08" y="412.692" type="line"/>
+      <point x="390.995" y="459.986" type="line"/>
+      <point x="351.995" y="459.986" type="line"/>
+      <point x="334.89" y="427.197" type="line"/>
+      <point x="325.938" y="409.299" type="line"/>
+      <point x="146.638" y="65.5857" type="line"/>
+      <point x="135.358" y="47.7953" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-10</integer>
+        <key>width</key>
+        <integer>28</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>432</integer>
+        <key>width</key>
+        <integer>28</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>29</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>380</integer>
+        <key>width</key>
+        <integer>90</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=o</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=o</string>
+  </dict>
+  </lib>
+</glyph>

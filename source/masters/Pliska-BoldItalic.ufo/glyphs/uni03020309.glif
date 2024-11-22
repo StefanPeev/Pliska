@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03020309" format="2">
+  <anchor x="-245" y="516" name="_top"/>
+  <anchor x="-221.949" y="723" name="t.top"/>
+  <outline>
+    <component base="uni0302"/>
+    <component base="uni0309" xOffset="162" yOffset="43.116"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>circumflexcomb_hookabovecomb</string>
+  </dict>
+  </lib>
+</glyph>

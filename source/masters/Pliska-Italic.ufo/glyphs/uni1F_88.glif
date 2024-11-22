@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F88" format="2">
+  <advance width="630"/>
+  <unicode hex="1F88"/>
+  <anchor x="408.651" y="704" name="top"/>
+  <anchor x="397.547" y="636.752" name="t.ring"/>
+  <anchor x="425" y="760" name="macron"/>
+  <anchor x="228.919" y="-70" name="bottom"/>
+  <anchor x="465.495" y="10" name="ogonek"/>
+  <anchor x="228.919" y="-70" name="b.ring"/>
+  <anchor x="256" y="677" name="t.tonos"/>
+  <anchor x="408.651" y="703.916" name="t.hook"/>
+  <outline>
+    <component base="uni1F08"/>
+    <component base="uni0345" xOffset="407" yOffset="4"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-213</integer>
+        <key>width</key>
+        <integer>38</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>226</integer>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>592</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>169</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>317</integer>
+        <key>width</key>
+        <integer>72</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni1F08+uni0345</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

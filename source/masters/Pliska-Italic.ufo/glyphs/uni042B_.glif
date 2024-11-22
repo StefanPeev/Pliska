@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni042B" format="2">
+  <advance width="882"/>
+  <unicode hex="042B"/>
+  <anchor x="887.753" y="760" name="macron"/>
+  <anchor x="560" y="704" name="top"/>
+  <anchor x="671.761" y="-70" name="bottom"/>
+  <anchor x="699.077" y="10" name="ogonek"/>
+  <anchor x="685.741" y="677" name="t.tonos"/>
+  <outline>
+    <component base="uni042C"/>
+    <component base="I" xOffset="544"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>37</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>334</integer>
+        <key>width</key>
+        <integer>40</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>633</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>437</integer>
+        <key>width</key>
+        <integer>109</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni042C</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

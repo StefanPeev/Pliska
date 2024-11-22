@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni032C" format="2">
+  <unicode hex="032C"/>
+  <outline>
+    <contour>
+      <point x="-405" y="-45" type="line"/>
+      <point x="-281" y="-212" type="line"/>
+      <point x="-219" y="-212" type="line"/>
+      <point x="-94" y="-45" type="line"/>
+      <point x="-128" y="-45" type="line"/>
+      <point x="-250" y="-148" type="line"/>
+      <point x="-371" y="-45" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-65</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

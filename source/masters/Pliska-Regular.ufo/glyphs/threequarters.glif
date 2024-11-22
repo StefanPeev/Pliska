@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+  <advance width="750"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="uni2083" yOffset="470"/>
+    <contour>
+      <point x="138" y="-14" type="line"/>
+      <point x="187" y="-14" type="line"/>
+      <point x="636.629" y="676" type="line"/>
+      <point x="590.007" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="412.596" y="90" type="line"/>
+      <point x="592" y="90" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="663" y="0" type="line"/>
+      <point x="663" y="90" type="line"/>
+      <point x="718" y="90" type="line"/>
+      <point x="718" y="147" type="line"/>
+      <point x="663" y="147" type="line"/>
+      <point x="663" y="405" type="line"/>
+      <point x="615.329" y="405" type="line"/>
+      <point x="412.596" y="139" type="line"/>
+    </contour>
+    <contour>
+      <point x="457.447" y="147" type="line"/>
+      <point x="592" y="326" type="line"/>
+      <point x="592" y="147" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>262</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>620</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

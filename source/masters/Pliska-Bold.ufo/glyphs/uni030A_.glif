@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni030A" format="2">
+  <unicode hex="030A"/>
+  <anchor x="-227" y="510" name="_t.ring"/>
+  <outline>
+    <component base="ring" xOffset="-357.5"/>
+  </outline>
+  <guideline angle="90" x="-333" y="0"/>
+  <guideline angle="0" x="0" y="723"/>
+  <guideline angle="0" x="0" y="510"/>
+  <guideline angle="90" x="-227" y="0"/>
+  <guideline angle="0" x="0" y="616"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>537</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>702</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-382</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>-217</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

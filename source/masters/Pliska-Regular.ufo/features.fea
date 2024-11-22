@@ -1,0 +1,1183 @@
+#/> classes
+#/> otclasses
+@cyrgrave_01 = [uni0410 uni0430 uni0415 uni0435 uni041E uni043E uni0423 uni0443 uni042A uni044A uni044A.loclBGR uni042D uni044D uni042B uni044B uni044B.loclBGR uni042E uni044E uni044E.loclBGR uni042F uni044F];
+@cyrgrave_02 = [Acyrgrave acyrgrave Iecyrgrave iecyrgrave Ocyrgrave ocyrgrave Ucyrgrave ucyrgrave Hardcyrgrave hardcyrgrave hardcyrgrave.loclBGR Ereversedcyrgrave ereversedcyrgrave Ylongcyrgrave ylongcyrgrave ylongcyrgrave.loclBGR Yucyrgrave yucyrgrave yucyrgrave.loclBGR Yacyrgrave yacyrgrave];
+@loclRUS = [uni0414 uni0416 uni041A uni041B uni0432 uni0433 uni0434 uni0436 uni0437 uni0438 uni0439 uni043A uni043B uni043D uni043F uni0442 uni0446 uni0447 uni0448 uni0449 uni044A uni044B uni044C uni044E uni045D];
+@loclBGR = [uni0414.loclBGR uni0416.loclBGR uni041A.loclBGR uni041B.loclBGR uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0437.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043B.loclBGR uni043D.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0447.loclBGR uni0448.loclBGR uni0449.loclBGR uni044A.loclBGR uni044B.loclBGR uni044C.loclBGR uni044E.loclBGR uni045D.loclBGR];
+@frac = [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+@frac2 = [fraction eight.dnom five.dnom four.dnom nine.dnom one.dnom seven.dnom six.dnom three.dnom two.dnom zero.dnom];
+@frac_ordn = [eight five four nine one seven six three two zero];
+#/< otclasses
+
+#/> kernclasses
+@uni201B = [uni201B uni201F];
+@hyphen = [hyphen uni00AD];
+@uni2194 = [arrowleft uni2194];
+@two.osf = [two.osf two.tosf];
+@one.osf = [one.osf one.tosf];
+@uni266B = [uni266B uni266C];
+@slash = [slash uni2041];
+@uni2159 = [uni2159 uni215F];
+@onehalf = [oneeighth onehalf];
+@zero.osf = [zero.osf zero.tosf];
+@eight.osf = [eight.osf eight.tosf];
+@six.osf = [six.osf six.tosf];
+@copyright = [copyright registered];
+@seven.osf = [seven.osf seven.tosf];
+@four.osf = [four.osf four.tosf];
+@comma = [comma quotesinglbase];
+@uni037E = [semicolon uni037E];
+@nine.osf = [nine.osf nine.tosf];
+@five.osf = [five.osf five.tosf];
+@three.osf = [three.osf three.tosf];
+@uni0432 = [uni0432 uni0433 uni0438 uni0439 uni043A uni043D uni043F uni0448 uni044B uni044C uni0453 uni0456 uni0457 uni045A uni045C uni045D uni0469 uni046D uni0491 uni049D uni04A5 uni04E3 uni04E5 uni04F9];
+@uni0436 = [uni0436 uni04C2 uni04DD];
+@uni0442 = [uni0442 uni044A uni04A1];
+@uni0447 = [uni0447 uni04F5];
+@uni0430 = [uni0430 uni04D1 uni04D3];
+@uni044D = [uni044D uni04ED];
+@uni0437 = [uni0437 uni04DF];
+@uni04D9 = [uni04D9 uni04DB];
+@uni043E = [uni0435 uni043E uni0441 uni0444 uni0450 uni0451 uni0473 uni04D7 uni04E7 uni04E9 uni04EB];
+@uni0475 = [uni0475 uni0477];
+@uni0461 = [uni0461 uni047D];
+@uni04BD = [uni04BD uni04BF];
+@uni0443 = [uni0443 uni045E uni04EF uni04F1 uni04F3];
+@uni0410 = [uni0410 uni04D0 uni04D2];
+@uni040A = [uni040A uni040D uni0418 uni0419 uni041F uni04A4 uni04E2 uni04E4];
+@uni0416 = [uni0416 uni04C1 uni04DC];
+@uni0400 = [uni0400 uni0401 uni0403 uni0406 uni0407 uni040C uni0412 uni0413 uni0415 uni041A uni041C uni041D uni0428 uni042B uni042C uni0468 uni046C uni04BA uni04D6 uni04F8];
+@uni0490 = [uni0490 uni049C uni04C0];
+@uni0409 = [uni0409 uni041B];
+@uni040B = [uni040B uni0422];
+@uni040E = [uni040E uni0423 uni04EE uni04F0 uni04F2];
+@uni042D = [uni042D uni04EC];
+@uni0417 = [uni0417 uni04DE];
+@uni0460 = [uni0460 uni047C uni047E];
+@uni0478 = [Haabkhcyr uni0478];
+@uni04D8 = [uni04D8 uni04DA];
+@uni0427 = [uni0427 uni04F4];
+@uni041E = [uni041E uni0421 uni0472 uni04AA uni04E6 uni04E8 uni04EA];
+@uni0464 = [uni0464 uni049A uni04A2];
+@uni0474 = [uni0474 uni0476];
+@uni04BC = [uni04BC uni04BE];
+@uni0438.loclBGR = [uni0438.loclBGR uni045D.loclBGR];
+@iota = [iota iotadieresis iotadieresistonos iotatonos uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F76 uni1F77 uni1FD0 uni1FD1 uni1FD2 uni1FD6 uni1FD7];
+@epsilon = [epsilon epsilontonos uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15 uni1F72 uni1F73];
+@uni1F66 = [uni1F66 uni1F67];
+@uni1F60 = [uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F7C uni1F7D uni1FF6];
+@omicron = [omicron omicrontonos];
+@uni03F2 = [uni03F2 uni03F5 uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F78 uni1F79];
+@omega = [omega omegatonos];
+@uni1F06 = [uni1F06 uni1F07];
+@alpha = [alpha alphatonos uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F70 uni1F71 uni1FB0 uni1FB1 uni1FB6];
+@uni1F56 = [uni1F56 uni1F57];
+@uni1F50 = [uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F7A uni1F7B uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE6 uni1FE7];
+@upsilon = [upsilon upsilondieresis upsilondieresistonos upsilontonos];
+@uni1FE4 = [uni1FE4 uni1FE5];
+@uni1F90 = [uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1FC2 uni1FC3 uni1FC4 uni1FC7];
+@uni1F96 = [uni1F96 uni1F97];
+@uni1F80 = [uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1FB2 uni1FB3 uni1FB4 uni1FB7];
+@uni1F86 = [uni1F86 uni1F87];
+@uni1FA0 = [uni1FA0 uni1FA1 uni1FA4 uni1FA5 uni1FF2 uni1FF3 uni1FF4 uni1FF7];
+@uni1FA2 = [uni1FA2 uni1FA3];
+@uni1FA6 = [uni1FA6 uni1FA7];
+@uni1F26 = [uni1F26 uni1F27];
+@uni1F20 = [uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F74 uni1F75 uni1FC6];
+@eta = [eta etatonos];
+@uni03A9 = [Omegatonos uni03A9 uni2126];
+@Alpha = [Alpha Alphatonos uni03E0 uni1FB8 uni1FB9];
+@Rho = [Rho uni03F7];
+@Mu = [Beta Epsilon Epsilontonos Eta Etatonos Gamma Iota Iotadieresis Iotatonos Kappa Mu];
+@uni03DC = [uni03DC uni03FA uni1FD8 uni1FD9];
+@Upsilon = [Upsilon Upsilondieresis Upsilontonos];
+@uni1FE8 = [uni1FE8 uni1FE9];
+@uni1FC8 = [uni1FC8 uni1FDA];
+@uni03D2 = [uni03D2 uni03D3 uni03D4];
+@uni1F18 = [uni1F18 uni1F38];
+@uni1F19 = [uni1F19 uni1F29 uni1F39];
+@uni1F1B = [uni1F1B uni1F2B uni1F3B];
+@uni1F1A = [uni1F1A uni1F2A uni1F3A];
+@uni1F1C = [uni1F1C uni1F2C uni1F3C];
+@uni1F1D = [uni1F1D uni1F2D uni1F3D];
+@Theta = [Theta uni03F4];
+@uni03F9 = [uni03F9 uni03FE];
+@Omicron = [Omicron Omicrontonos];
+@uni1FDD = [uni1FDD uni1FDE];
+@u10143 = [u10143 u10144 u10145 u10146 u10147];
+@uni1FAA = [uni1FAA uni1FAC];
+@z = [uni1E91 uni1E93 uni1E95 z zacute zcaron zdotaccent];
+@i = [dotlessi i iacute ibreve icaron icircumflex idieresis igrave imacron iogonek itilde kgreenlandic m n nacute napostrophe ncaron ncedilla ntilde r racute rcaron rcedilla uni01F9 uni0209 uni020B uni0211 uni0213 uni1E2D uni1E2F uni1E3F uni1E41 uni1E43 uni1E45 uni1E47 uni1E49 uni1E4B uni1E59 uni1E5B uni1E5D uni1E5F uni1EC9 uni1ECB];
+@longs = [longs uni1E1F uni1E9D];
+@x = [uni1E8B uni1E8D x];
+@oslash = [oslash oslashacute];
+@s = [s sacute scaron scedilla scircumflex uni0219 uni1E61 uni1E63 uni1E65 uni1E67 uni1E69];
+@a = [a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring aringacute atilde uni01DF uni01E1 uni0201 uni0203 uni0227 uni1E01 uni1E9A uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7];
+@e = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek uni0205 uni0207 uni0229 uni1E15 uni1E17 uni1E19 uni1E1B uni1E1D uni1EB9 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7];
+@t = [t tcaron uni0163 uni021B uni1E6B uni1E6D uni1E6F uni1E71 uni1E97];
+@c = [c cacute ccaron ccedilla ccircumflex cdotaccent uni1E09];
+@ae = [ae aeacute uni01E3];
+@uni01DD = [uni01DD uni0259];
+@u = [u uacute ubreve ucaron ucircumflex udieresis ugrave uhorn uhungarumlaut umacron uni01D6 uni01D8 uni01DA uni01DC uni0215 uni0217 uni1E73 uni1E75 uni1E77 uni1E79 uni1E7B uni1EE5 uni1EE7 uni1EE9 uni1EEB uni1EED uni1EEF uni1EF1 uogonek uring utilde];
+@o = [o oacute obreve ocaron ocircumflex odieresis ograve ohungarumlaut omacron otilde uni01EB uni01ED uni020D uni020F uni022B uni022D uni022F uni0231 uni0275 uni1E4D uni1E4F uni1E51 uni1E53 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9];
+@w = [uni1E81 uni1E83 uni1E85 uni1E87 uni1E89 uni1E98 w wcircumflex];
+@v = [uni1E7D uni1E7F v];
+@ohorn = [ohorn uni1EDB uni1EDD uni1EDF uni1EE1 uni1EE3];
+@y = [uni0233 uni1E8F uni1E99 uni1EF3 uni1EF5 uni1EF7 uni1EF9 y yacute ycircumflex ydieresis];
+@p = [p uni1E55 uni1E57];
+@g = [g gacute gbreve gcaron gcedilla gcircumflex gdotaccent uni1E21];
+@j = [dotlessj j jcaron jcircumflex];
+@S = [S Sacute Scaron Scedilla Scircumflex uni0218 uni1E60 uni1E62 uni1E64 uni1E66 uni1E68];
+@J = [J Jcircumflex];
+@Z = [Z Zacute Zcaron Zdotaccent uni1E90 uni1E92 uni1E94];
+@A = [A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni01DE uni01E0 uni0200 uni0202 uni0226 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6 uni212B];
+@AE = [AE AEacute uni01E2];
+@P = [P uni1E54 uni1E56];
+@X = [X uni1E8A uni1E8C];
+@Eth = [Dcroat Eth];
+@B = [B D Dcaron E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F H Hcaron Hcircumflex I I_lb Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde K Kcaron Kcedilla L Lacute Lcaron Lcedilla Ldot M R Racute Rcaron Rcedilla Thorn uni01C4 uni01F1 uni0204 uni0206 uni0208 uni020A uni0210 uni0212 uni0228 uni1E02 uni1E04 uni1E06 uni1E0A uni1E0C uni1E0E uni1E10 uni1E12 uni1E14 uni1E16 uni1E18 uni1E1A uni1E1C uni1E1E uni1E22 uni1E24 uni1E26 uni1E28 uni1E2A uni1E2C uni1E2E uni1E30 uni1E32 uni1E34 uni1E36 uni1E38 uni1E3A uni1E3C uni1E3E uni1E40 uni1E42 uni1E58 uni1E5A uni1E5C uni1E5E uni1EB8 uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6 uni1EC8 uni1ECA];
+@T = [T Tcaron uni0162 uni021A uni1E6A uni1E6C uni1E6E uni1E70];
+@Oslash = [Oslash Oslashacute];
+@Y = [Y Yacute Ycircumflex Ydieresis uni0232 uni1E8E uni1EF2 uni1EF4 uni1EF6 uni1EF8];
+@Uhorn = [Uhorn uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0];
+@U = [U Uacute Ubreve Ucaron Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde uni01D5 uni01D7 uni01D9 uni01DB uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6];
+@G = [G Gacute Gbreve Gcaron Gcedilla Gcircumflex Gdotaccent uni01E4 uni1E20];
+@C = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohorn Ohungarumlaut Omacron Otilde Q uni019F uni01EA uni01EC uni020C uni020E uni022A uni022C uni022E uni0230 uni1E08 uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2];
+@W = [W Wcircumflex uni1E80 uni1E82 uni1E84 uni1E86 uni1E88];
+@N = [N Nacute Ncaron Ncedilla Ntilde uni01CA uni01F8 uni1E44 uni1E46 uni1E48 uni1E4A];
+@V = [V uni1E7C uni1E7E];
+@h = [h hcaron hcircumflex k kcaron kcedilla l lacute lcaron lcedilla ldot uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E31 uni1E33 uni1E35 uni1E37 uni1E39 uni1E3B uni1E3D uni1E96];
+@f = [f uni1E9B];
+@f_f = [f_f f_f_i f_f_l f_i];
+@b = [b uni1E03 uni1E05 uni1E07];
+@d = [d dcaron uni1E0B uni1E0D uni1E0F uni1E11 uni1E13];
+@uni01C6 = [uni01C6 uni01F3];
+@uni01C5 = [uni01C5 uni01F2];
+@hyphen1 = [hyphen uni00AD];
+@uni21941 = [arrowright uni2194];
+@two.osf1 = [two.osf two.tosf];
+@one.osf1 = [one.osf one.tosf];
+@uni266B1 = [uni266B uni266C];
+@six.osf1 = [six.osf six.tosf];
+@zero.osf1 = [zero.osf zero.tosf];
+@eight = [eight eight.osf eight.tosf];
+@oneeighth = [fiveeighths oneeighth];
+@uni2156 = [uni2156 uni2158];
+@four.osf1 = [four.osf four.tosf];
+@seven.osf1 = [seven.osf seven.tosf];
+@five.osf1 = [five.osf five.tosf];
+@comma1 = [comma quotesinglbase];
+@uni037E1 = [semicolon uni037E];
+@three.osf1 = [three.osf three.tosf];
+@nine.osf1 = [nine.osf nine.tosf];
+@uni0438 = [uni0438 uni0439 uni043C uni043D uni043F uni0447 uni0448 uni044B uni045D uni04B9 uni04E3 uni04E5 uni04F5 uni04F9];
+@uni0456 = [uni0456 uni0457];
+@uni043A = [uni043A uni045C];
+@uni04361 = [uni0436 uni04C2 uni04DD];
+@uni0467 = [uni0467 uni0469];
+@uni049D = [uni049D uni04A1];
+@uni044A = [uni044A uni044C uni045A];
+@uni0433 = [uni0433 uni0453];
+@uni04301 = [uni0430 uni04D1 uni04D3];
+@uni04371 = [uni0437 uni04DF];
+@uni04351 = [uni0435 uni0450 uni0451 uni04D7];
+@uni04BD1 = [uni04BD uni04BF];
+@uni04D91 = [uni04D9 uni04DB];
+@uni044D1 = [uni04ED];
+@uni043E1 = [uni043E uni0444 uni044D uni044E uni0473 uni04E7 uni04E9 uni04EB];
+@uni04611 = [uni0461 uni047D];
+@uni04751 = [uni0475 uni0477];
+@uni0434 = [uni0434 uni0446 uni0449 uni04A3 uni04B5 uni04B7];
+@uni04431 = [uni0443 uni045E uni04EF uni04F1 uni04F3];
+@uni04101 = [uni0410 uni04D0 uni04D2];
+@uni0414 = [uni0414 uni0426 uni0429 uni04A2 uni04B4 uni04B6];
+@uni04161 = [uni0416 uni04C1 uni04DC];
+@uni046A = [uni046A uni046C];
+@uni040C = [uni040C uni041A uni049C];
+@uni0466 = [uni0466 uni0468];
+@uni040D = [uni040D uni0418 uni0419 uni041C uni041F uni04B8 uni04E2 uni04E4];
+@uni0406 = [uni0406 uni0407 uni041D uni0428 uni042B uni042F uni04F8];
+@uni04001 = [uni0400 uni0401 uni0415 uni04D6];
+@uni04271 = [uni0427 uni04F4];
+@uni0403 = [uni0403 uni0413];
+@uni04171 = [uni0417 uni04DE];
+@uni0421 = [uni0421 uni04AA];
+@uni04601 = [uni0460 uni047C uni047E];
+@uni042D1 = [uni042D uni04EC];
+@uni04D81 = [uni04D8 uni04DA];
+@uni04BC1 = [uni04BC uni04BE];
+@uni041E1 = [uni041E uni042E uni0472 uni04E6 uni04E8 uni04EA];
+@uni040E1 = [uni040E uni0423 uni04EE uni04F0 uni04F2];
+@uni04741 = [uni0474 uni0476];
+@uni043D.loclBGR = [uni043D.loclBGR uni0447.loclBGR];
+@uni0438.loclBGR1 = [uni0438.loclBGR uni045D.loclBGR];
+@uni1F36 = [uni1F36 uni1F37];
+@uni1F33 = [uni1F33 uni1FD0 uni1FD1 uni1FD2];
+@alpha1 = [alpha alphatonos uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F70 uni1F71 uni1FB0 uni1FB1 uni1FB6];
+@iota1 = [iota iotadieresis iotadieresistonos iotatonos uni1F30 uni1F31 uni1F32 uni1F34 uni1F35 uni1F76 uni1F77 uni1FD3 uni1FD6];
+@uni1F12 = [uni1F12 uni1F13];
+@uni1F10 = [uni1F10 uni1F11 uni1F14 uni1F15 uni1F72 uni1F73];
+@epsilon1 = [epsilon epsilontonos];
+@uni1F601 = [uni1F60 uni1F61 uni1F64 uni1F65 uni1F7C uni1F7D uni1FF6];
+@uni1F661 = [uni1F66 uni1F67];
+@uni1F62 = [uni1F62 uni1F63];
+@omicron1 = [omicron omicrontonos uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F78 uni1F79];
+@uni1F501 = [uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F7A uni1F7B uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE6 uni1FE7 upsilon upsilondieresis upsilondieresistonos upsilontonos];
+@omega1 = [omega omegatonos];
+@uni1F561 = [uni1F56 uni1F57];
+@eta1 = [eta etatonos uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F74 uni1F75 uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97 uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7];
+@uni1FA01 = [uni1FA0 uni1FA1 uni1FA4 uni1FA5 uni1FF2 uni1FF3 uni1FF4 uni1FF7];
+@uni1FA21 = [uni1FA2 uni1FA3];
+@uni1FA61 = [uni1FA6 uni1FA7];
+@uni1F801 = [uni1F80 uni1F81 uni1F84 uni1F85 uni1FB2 uni1FB3 uni1FB4 uni1FB7];
+@uni1F82 = [uni1F82 uni1F83];
+@uni1F861 = [uni1F86 uni1F87];
+@uni1FE41 = [uni1FE4 uni1FE5];
+@uni03A91 = [Omegatonos uni03A9 uni1F68 uni1F69 uni2126];
+@uni1F6A = [uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1FFA uni1FFB];
+@Alpha1 = [Alpha Alphatonos uni1F08 uni1F09 uni1F0A uni1F0C uni1F0D uni1F0E uni1F0F uni1FB8 uni1FB9 uni1FBB];
+@uni1F0B = [uni1F0B uni1FBA];
+@Mu1 = [Mu Pi uni03FA uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1FCA uni1FCB];
+@Eta = [Eta Etatonos Iota Iotadieresis Iotatonos];
+@uni1F38 = [uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1FD8 uni1FD9 uni1FDA uni1FDB];
+@Epsilon = [Epsilon Epsilontonos];
+@uni1F181 = [uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1FC8 uni1FC9];
+@Upsilon1 = [Upsilon Upsilondieresis Upsilontonos];
+@uni03D21 = [uni03D2 uni03D3 uni03D4];
+@uni1F59 = [uni1F59 uni1FE8 uni1FE9];
+@uni1F5B = [uni1F5B uni1F5D uni1FEA uni1FEB];
+@uni03F4 = [uni03F4 uni1F49 uni1F4B uni1F4C uni1F4D uni1FF8 uni1FF9];
+@uni1F48 = [uni1F48 uni1F4A];
+@uni03FD = [uni03FD uni03FF];
+@Omicron1 = [Omicron Omicrontonos];
+@uni1FCD = [uni1FCD uni1FDD];
+@uni1FCE = [uni1FCE uni1FDE];
+@u101431 = [u10143 u10144 u10145 u10146 u10147];
+@uni1FAE = [uni1FAE uni1FAF];
+@uni1FAA1 = [uni1FAA uni1FAC];
+@uni1F9A = [uni1F9A uni1F9B];
+@uni1F9C = [uni1F9C uni1F9D];
+@uni1F9E = [uni1F9E uni1F9F];
+@uni1F8E = [uni1F8E uni1F8F];
+@uni1F8C = [uni1F8C uni1F8D];
+@z1 = [uni1E91 uni1E93 uni1E95 z zacute zcaron zdotaccent];
+@i1 = [dotlessi i iacute ibreve icaron icircumflex idieresis igrave imacron iogonek itilde uni0209 uni020B uni1E2D uni1E2F uni1EC9 uni1ECB];
+@m = [m uni1E3F uni1E41 uni1E43];
+@x1 = [uni1E8B uni1E8D x];
+@longs1 = [longs uni1E9D];
+@n = [n nacute napostrophe ncaron ncedilla ntilde uni01F9 uni1E45 uni1E47 uni1E49 uni1E4B];
+@r = [r racute rcaron rcedilla uni0211 uni0213 uni1E59 uni1E5B uni1E5D uni1E5F];
+@t1 = [t uni0163 uni021B uni1E6B uni1E6D uni1E6F uni1E71 uni1E97];
+@a1 = [a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring aringacute atilde uni01DF uni01E1 uni0201 uni0203 uni0227 uni1E01 uni1E9A uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7];
+@s1 = [s sacute scaron scedilla scircumflex uni0219 uni1E61 uni1E63 uni1E65 uni1E67 uni1E69];
+@c1 = [c cacute ccaron ccedilla ccircumflex cdotaccent uni1E09];
+@e1 = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek uni0205 uni0207 uni0229 uni1E15 uni1E17 uni1E19 uni1E1B uni1E1D uni1EB9 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7];
+@uhorn = [uhorn uni1EE9 uni1EEB uni1EED uni1EEF uni1EF1];
+@u1 = [u uacute ubreve ucaron ucircumflex udieresis ugrave uhungarumlaut umacron uni01D6 uni01D8 uni01DA uni01DC uni0215 uni0217 uni1E73 uni1E75 uni1E77 uni1E79 uni1E7B uni1EE5 uni1EE7 uogonek uring utilde];
+@o1 = [o oacute obreve ocaron ocircumflex odieresis ograve ohungarumlaut omacron oslash oslashacute otilde uni01EB uni01ED uni020D uni020F uni022B uni022D uni022F uni0231 uni0275 uni1E4D uni1E4F uni1E51 uni1E53 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9];
+@ohorn1 = [ohorn uni1EDB uni1EDD uni1EDF uni1EE1 uni1EE3];
+@w1 = [uni1E81 uni1E83 uni1E85 uni1E87 uni1E89 uni1E98 w wcircumflex];
+@v1 = [uni1E7D uni1E7F v];
+@ae1 = [ae aeacute uni01E3];
+@g1 = [g gacute gbreve gcaron gcedilla gcircumflex gdotaccent uni1E21];
+@j1 = [dotlessj ij j jcaron jcircumflex uni01CC];
+@p1 = [p uni1E55 uni1E57];
+@y1 = [uni0233 uni1E8F uni1E99 uni1EF3 uni1EF5 uni1EF7 uni1EF9 y yacute ycircumflex ydieresis];
+@Z1 = [Z Zacute Zcaron Zdotaccent uni01C4 uni01F1 uni1E90 uni1E92 uni1E94];
+@R = [R Racute Rcaron Rcedilla uni0210 uni0212 uni1E58 uni1E5A uni1E5C uni1E5E];
+@A1 = [A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni01DE uni01E0 uni0200 uni0202 uni0226 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6 uni212B];
+@X1 = [X uni1E8A uni1E8C];
+@K = [K Kcaron Kcedilla uni1E30 uni1E32 uni1E34];
+@M = [M uni1E3E uni1E40 uni1E42];
+@H = [H Hcaron Hcircumflex I Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde uni0208 uni020A uni1E22 uni1E24 uni1E26 uni1E28 uni1E2A uni1E2C uni1E2E uni1EC8 uni1ECA];
+@L = [L Lacute Lcedilla uni1E36 uni1E38 uni1E3A uni1E3C];
+@AE1 = [AE AEacute uni01E2];
+@E = [E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek uni0204 uni0206 uni0228 uni1E14 uni1E16 uni1E18 uni1E1A uni1E1C uni1EB8 uni1EBA uni1EBC uni1EBE uni1EC0 uni1EC2 uni1EC4 uni1EC6];
+@J1 = [IJ J Jcircumflex uni01C7 uni01CA];
+@N1 = [N Nacute Ncaron Ncedilla Ntilde uni01F8 uni1E44 uni1E46 uni1E48 uni1E4A];
+@T1 = [T Tcaron uni0162 uni021A uni1E6A uni1E6C uni1E6E uni1E70];
+@B1 = [B uni1E02 uni1E04 uni1E06];
+@Y1 = [Y Yacute Ycircumflex Ydieresis uni0232 uni1E8E uni1EF2 uni1EF4 uni1EF6 uni1EF8];
+@F = [F uni1E1E];
+@P1 = [P uni1E54 uni1E56];
+@S1 = [S Sacute Scaron Scedilla Scircumflex uni0218 uni1E60 uni1E62 uni1E64 uni1E66 uni1E68];
+@D = [D Dcaron Dcroat Eth uni1E0A uni1E0C uni1E0E uni1E10 uni1E12];
+@C1 = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent uni1E08];
+@Uhorn1 = [Uhorn uni1EE8 uni1EEA uni1EEC uni1EEE uni1EF0];
+@U1 = [U Uacute Ubreve Ucaron Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde uni01D5 uni01D7 uni01D9 uni01DB uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6];
+@G1 = [G Gacute Gbreve Gcaron Gcedilla Gcircumflex Gdotaccent uni1E20];
+@W1 = [W Wcircumflex uni1E80 uni1E82 uni1E84 uni1E86 uni1E88];
+@Ohorn = [Ohorn uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2];
+@Oslash1 = [Oslash Oslashacute];
+@O = [O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde Q uni019F uni01EA uni01EC uni020C uni020E uni022A uni022C uni022E uni0230 uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8];
+@V1 = [V uni1E7C uni1E7E];
+@l = [f_f_l f_l l lacute lcedilla uni1E37 uni1E39 uni1E3B uni1E3D];
+@f_i = [f_f_i f_i];
+@k = [k kcaron kcedilla uni1E31 uni1E33 uni1E35];
+@h1 = [h hcaron hcircumflex uni1E23 uni1E25 uni1E27 uni1E29 uni1E2B uni1E96];
+@d1 = [d dcaron uni1E0B uni1E0D uni1E0F uni1E11 uni1E13];
+@uni01C61 = [uni01C6 uni01F3];
+@uni01C51 = [uni01C5 uni01F2];
+#/< kernclasses
+#/< classes
+
+###
+# OpenType Layout feature definitions
+# Format: Adobe FDK for OpenType (AFDKO) version 2.5
+# Generated on: 2024-11-18 0:33
+# Generated by: FontLab 8.0.0
+# Font path: E:/Fonts/A Context Free/Pliska/2024/VFC/Pliska.vfc
+# Font PostScript name: Pliska-Regular
+# Font copyright: Typeface Copyright: Stefan Peev (c) 2016; Michael Sharpe (c) 2015; Alexey Kryukov (C) 2005; (URW)++ Design & Development (C) 1999; Valek Filippov (C) 2001; Dmitry 40in (C) 2001; The Omega Project (C) 1996 v. 1997-02-08; Free Software Foundation (C) 2002, 2003.
+#
+# Totals:
+# Languagesystems: 8
+# GSUB lookups: 37
+# GSUB features: 18 (aalt, dlig, dnom, frac, hist, liga, lnum, locl, numr, onum, ordn, pnum, salt, sinf, ss01, subs, sups, tnum)
+# GPOS lookups: 0
+
+#
+# Languagesystem definitions
+#
+
+languagesystem DFLT dflt; # Default default
+languagesystem latn dflt; # Latin default
+languagesystem latn MOL ; # Latin Moldavian
+languagesystem latn ROM ; # Latin Romanian
+languagesystem cyrl dflt; # Cyrillic default
+languagesystem cyrl BGR ; # Cyrillic Bulgarian
+languagesystem cyrl SRB ; # Cyrillic Serbian
+languagesystem grek dflt; # Greek default
+
+#
+# Lookup definitions
+#
+lookup cyrgrave {
+sub @cyrgrave_01 by @cyrgrave_02;
+} cyrgrave;
+
+#
+# Feature definitions
+#
+feature aalt {
+# Access All Alternates
+
+#> feature
+  feature locl;
+  feature sinf;
+  feature sups;
+  feature subs;
+  feature numr;
+  feature dnom;
+  feature salt;
+  feature hist;
+  feature onum;
+  feature lnum;
+  feature pnum;
+  feature tnum;
+  feature ss01;
+#< feature
+} aalt;
+feature locl {
+# GSUB feature: Localized Forms
+# Lookups: 4
+
+  script latn; # Latin
+    language MOL ; # Moldavian
+    sub Scedilla by uni0218;
+    sub scedilla by uni0219;
+    sub uni0162 by uni021A;
+    sub uni0163 by uni021B;
+
+    language ROM ; # Romanian
+    sub Scedilla by uni0218;
+    sub scedilla by uni0219;
+    sub uni0162 by uni021A;
+    sub uni0163 by uni021B;
+
+
+  script cyrl; # Cyrillic
+    language SRB ; # Serbian
+    sub uni0431 by uni0431.loclSRB;
+
+    language BGR ; # Bulgarian
+    sub uni0414 by uni0414.loclBGR;
+    sub uni0416 by uni0416.loclBGR;
+    sub uni041A by uni041A.loclBGR;
+    sub uni041B by uni041B.loclBGR;
+    sub uni0432 by uni0432.loclBGR;
+    sub uni0433 by uni0433.loclBGR;
+    sub uni0434 by uni0434.loclBGR;
+    sub uni0436 by uni0436.loclBGR;
+    sub uni0437 by uni0437.loclBGR;
+    sub uni0438 by uni0438.loclBGR;
+    sub uni0439 by uni0439.loclBGR;
+    sub uni043A by uni043A.loclBGR;
+    sub uni043B by uni043B.loclBGR;
+    sub uni043D by uni043D.loclBGR;
+    sub uni043F by uni043F.loclBGR;
+    sub uni0442 by uni0442.loclBGR;
+    sub uni0444 by uni0444.loclBGR;
+    sub uni0446 by uni0446.loclBGR;
+    sub uni0447 by uni0447.loclBGR;
+    sub uni0448 by uni0448.loclBGR;
+    sub uni0449 by uni0449.loclBGR;
+    sub uni044A by uni044A.loclBGR;
+    sub uni044B by uni044B.loclBGR;
+    sub uni044C by uni044C.loclBGR;
+    sub uni044E by uni044E.loclBGR;
+    sub uni045D by uni045D.loclBGR;
+    sub hardcyrgrave by hardcyrgrave.loclBGR;
+    sub ylongcyrgrave by ylongcyrgrave.loclBGR;
+    sub yucyrgrave by yucyrgrave.loclBGR;
+
+
+} locl;
+feature sinf {
+# GSUB feature: Scientific Inferiors
+# Lookups: 1
+
+  sub eight by uni2088;
+  sub five by uni2085;
+  sub four by uni2084;
+  sub nine by uni2089;
+  sub one by uni2081;
+  sub seven by uni2087;
+  sub six by uni2086;
+  sub three by uni2083;
+  sub two by uni2082;
+  sub zero by uni2080;
+
+} sinf;
+feature sups {
+# GSUB feature: Superscript
+# Lookups: 1
+
+  sub eight by uni2078;
+  sub five by uni2075;
+  sub four by uni2074;
+  sub nine by uni2079;
+  sub one by uni00B9;
+  sub seven by uni2077;
+  sub six by uni2076;
+  sub three by uni00B3;
+  sub two by uni00B2;
+  sub zero by uni2070;
+
+} sups;
+feature subs {
+# GSUB feature: Subscript
+# Lookups: 1
+
+  sub eight by uni2088;
+  sub five by uni2085;
+  sub four by uni2084;
+  sub nine by uni2089;
+  sub one by uni2081;
+  sub seven by uni2087;
+  sub six by uni2086;
+  sub three by uni2083;
+  sub two by uni2082;
+  sub zero by zero.subs;
+
+} subs;
+feature numr {
+# GSUB feature: Numerators
+# Lookups: 1
+
+  sub eight by eight.numr;
+  sub five by five.numr;
+  sub four by four.numr;
+  sub nine by nine.numr;
+  sub one by one.numr;
+  sub seven by seven.numr;
+  sub six by six.numr;
+  sub three by three.numr;
+  sub two by two.numr;
+  sub zero by zero.numr;
+
+} numr;
+feature dnom {
+# GSUB feature: Denominators
+# Lookups: 1
+
+  sub eight by eight.dnom;
+  sub five by five.dnom;
+  sub four by four.dnom;
+  sub nine by nine.dnom;
+  sub one by one.dnom;
+  sub seven by seven.dnom;
+  sub six by six.dnom;
+  sub three by three.dnom;
+  sub two by two.dnom;
+  sub zero by zero.dnom;
+
+} dnom;
+feature frac {
+# GSUB feature: Fractions
+# Lookups: 12
+
+  ignore sub slash @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn @frac_ordn slash';
+  ignore sub slash' @frac_ordn @frac_ordn slash;
+  ignore sub slash @frac_ordn slash';
+  ignore sub slash' @frac_ordn slash;
+  ignore sub slash slash';
+  ignore sub slash' slash;
+  sub @frac_ordn slash' @frac_ordn by fraction;
+  sub @frac_ordn' fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac @frac @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac @frac @frac @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac @frac @frac @frac @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac @frac @frac @frac @frac @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac @frac @frac @frac @frac @frac @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac @frac @frac @frac @frac @frac @frac @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac_ordn' @frac @frac @frac @frac @frac @frac @frac @frac @frac fraction by [eight.numr five.numr four.numr nine.numr one.numr seven.numr six.numr three.numr two.numr zero.numr];
+  sub @frac2 @frac_ordn' by [eight.dnom five.dnom four.dnom nine.dnom one.dnom seven.dnom six.dnom three.dnom two.dnom zero.dnom];
+
+} frac;
+feature ordn {
+# GSUB feature: Ordinals
+# Lookups: 2
+
+  sub @frac_ordn [A a]' by [ordfeminine ordfeminine];
+  sub @frac_ordn [O o]' by [ordmasculine ordmasculine];
+  sub N o period by uni2116;
+
+} ordn;
+feature salt {
+# GSUB feature: Stylistic Alternates
+# Lookups: 1
+
+  sub i from [i.cv01];
+
+} salt;
+feature dlig {
+# GSUB feature: Discretionary Ligatures
+# Lookups: 1
+
+  sub c t by c_t;
+  sub f f j by f_f_j.dlig;
+  sub f j by f_j.dlig;
+  sub i s t by i_s_t;
+  sub s t by s_t;
+
+} dlig;
+feature liga {
+# GSUB feature: Standard Ligatures
+# Lookups: 1
+
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+  sub f f by f_f;
+  sub f i by f_i;
+  sub f l by f_l;
+
+} liga;
+feature hist {
+# GSUB feature: Historical Forms
+# Lookups: 1
+
+  sub s by longs;
+
+} hist;
+feature onum {
+# GSUB feature: Oldstyle Figures
+# Lookups: 1
+
+  sub eight by eight.tosf;
+  sub five by five.tosf;
+  sub four by four.tosf;
+  sub nine by nine.tosf;
+  sub one by one.tosf;
+  sub seven by seven.tosf;
+  sub six by six.tosf;
+  sub three by three.tosf;
+  sub two by two.tosf;
+  sub zero by zero.tosf;
+
+} onum;
+feature lnum {
+# GSUB feature: Lining Figures
+# Lookups: 1
+
+  sub zero.osf by zero;
+  sub one.osf by one;
+  sub two.osf by two;
+  sub three.osf by three;
+  sub four.osf by four;
+  sub five.osf by five;
+  sub six.osf by six;
+  sub seven.osf by seven;
+  sub eight.osf by eight;
+  sub nine.osf by nine;
+  sub zero.tosf by zero;
+  sub one.tosf by one;
+  sub two.tosf by two;
+  sub three.tosf by three;
+  sub four.tosf by four;
+  sub five.tosf by five;
+  sub six.tosf by six;
+  sub seven.tosf by seven;
+  sub eight.tosf by eight;
+  sub nine.tosf by nine;
+
+} lnum;
+feature pnum {
+# GSUB feature: Proportional Figures
+# Lookups: 1
+
+  sub zero.osf by zero;
+  sub zero.tosf by zero;
+  sub one.tosf by one.osf;
+  sub two.tosf by two.osf;
+  sub three.tosf by three.osf;
+  sub four.tosf by four.osf;
+  sub five.tosf by five.osf;
+  sub six.tosf by six.osf;
+  sub seven.tosf by seven.osf;
+  sub eight.tosf by eight.osf;
+  sub nine.tosf by nine.osf;
+
+} pnum;
+feature tnum {
+# GSUB feature: Tabular Figures
+# Lookups: 1
+
+  sub zero.osf by zero.tosf;
+  sub one.osf by one.tosf;
+  sub two.osf by two.tosf;
+  sub three.osf by three.tosf;
+  sub four.osf by four.tosf;
+  sub five.osf by five.tosf;
+  sub six.osf by six.tosf;
+  sub seven.osf by seven.tosf;
+  sub eight.osf by eight.tosf;
+  sub nine.osf by nine.tosf;
+  sub zero by zero.tosf;
+
+} tnum;
+feature ss01 {
+# GSUB feature: Stylistic Set 1
+# Lookups: 1
+
+featureNames {
+        name "Bulgarian Cyrillic"; # Windows English
+        name 1 0 0 "Bulgarian Cyrillic"; # Mac English
+    };
+
+#> feature
+
+  sub uni0414 by uni0414.loclBGR;
+  sub uni0416 by uni0416.loclBGR;
+  sub uni041A by uni041A.loclBGR;
+  sub uni041B by uni041B.loclBGR;
+  sub uni0432 by uni0432.loclBGR;
+  sub uni0433 by uni0433.loclBGR;
+  sub uni0434 by uni0434.loclBGR;
+  sub uni0436 by uni0436.loclBGR;
+  sub uni0437 by uni0437.loclBGR;
+  sub uni0438 by uni0438.loclBGR;
+  sub uni0439 by uni0439.loclBGR;
+  sub uni043A by uni043A.loclBGR;
+  sub uni043B by uni043B.loclBGR;
+  sub uni043D by uni043D.loclBGR;
+  sub uni043F by uni043F.loclBGR;
+  sub uni0442 by uni0442.loclBGR;
+  sub uni0446 by uni0446.loclBGR;
+  sub uni0447 by uni0447.loclBGR;
+  sub uni0448 by uni0448.loclBGR;
+  sub uni0449 by uni0449.loclBGR;
+  sub uni044A by uni044A.loclBGR;
+  sub uni044B by uni044B.loclBGR;
+  sub uni044C by uni044C.loclBGR;
+  sub uni044E by uni044E.loclBGR;
+  sub uni045D by uni045D.loclBGR;
+
+#< feature
+
+} ss01;
+feature ss02 {
+# Stylistic Set 01–20
+
+  featureNames {
+    name "Cyrillic: Serbian alternates";
+    name 3 1 0x402 "\041a\0438\0440\0438\043b\0438\0446\0430: \0432\0430\0440\0438\0430\043d\0442\0438 \0437\0430 \0441\0440\044a\0431\0441\043a\0438"; # "Кирилица: варианти за сръбски"
+    name 3 1 0x419 "\041a\0438\0440\0438\043b\043b\0438\0446\0430: \0432\0430\0440\0438\0430\043d\0442\044b \0434\043b\044f \0441\0435\0440\0431\0441\043a\043e\0433\043e"; # "Кириллица: варианты для сербского"
+    name 3 1 0x42f "\041a\0438\0440\0438\043b\0438\0446\0430: \043e\043f\0446\0438\0438 \0437\0430 \0441\0440\043f\0441\043a\0438"; # "Кирилица: опции за српски"
+    name 3 1 0xc1a "\040b\0438\0440\0438\043b\0438\0446\0430: \043e\043f\0446\0438\0458\0435 \0437\0430 \0441\0440\043f\0441\043a\0438"; # "Ћирилица: опције за српски"
+  };
+
+#> feature
+
+    sub uni0431 by uni0431.loclSRB;
+
+#< feature
+} ss02;
+feature ss03 {
+# Stylistic Set 01–20
+
+  featureNames {
+    name "Cyrillic: Macedonian alternates";
+    name 3 1 0x402 "\041a\0438\0440\0438\043b\0438\0446\0430: \0432\0430\0440\0438\0430\043d\0442\0438 \0437\0430 \043c\0430\043a\0435\0434\043e\043d\0441\043a\0438"; # "Кирилица: варианти за македонски"
+    name 3 1 0x419 "\041a\0438\0440\0438\043b\043b\0438\0446\0430: \0432\0430\0440\0438\0430\043d\0442\044b \0434\043b\044f  \043c\0430\043a\0435\0434\043e\043d\0441\043a\043e\0433\043e"; # "Кириллица: варианты для македонского"
+    name 3 1 0x42f "\041a\0438\0440\0438\043b\0438\0446\0430: \043e\043f\0446\0438\0438 \0437\0430 \043c\0430\043a\0435\0434\043e\043d\0441\043a\0438"; # "Кирилица: опции за македонски"
+    name 3 1 0xc1a "\040b\0438\0440\0438\043b\0438\0446\0430: \043e\043f\0446\0438\0458\0435 \0437\0430 \043c\0430\043a\0435\0434\043e\043d\0441\043a\0438"; # "Ћирилица: опције за македонски"
+  };
+
+#> feature
+
+    sub uni0431 by uni0431.loclSRB;
+
+#< feature
+} ss03;
+feature ss04 {
+# Stylistic Set 01–20
+
+featureNames {
+        name "Grave Cyrillic Vowels"; # Windows English
+        name 1 0 0 "Grave Cyrillic Vowels"; # Mac English
+    };
+
+#> feature
+
+  lookup cyrgrave;
+
+  script cyrl; # Cyrillic
+  language BGR; # Bulgarian
+  sub uni045D by uni045D.loclBGR;
+  sub hardcyrgrave by hardcyrgrave.loclBGR;
+  sub ylongcyrgrave by ylongcyrgrave.loclBGR;
+  sub yucyrgrave by yucyrgrave.loclBGR;
+
+#< feature
+} ss04;
+feature kern {
+  @_uni043A = [uni043A uni045C];
+  @_uni04361 = [uni0436 uni04C2 uni04DD];
+  @_uni04301 = [uni0430 uni04D1 uni04D3];
+  @_uni04351 = [uni0435 uni0450 uni0451 uni04D7];
+  @_uni043E1 = [uni043E uni0444 uni044D uni044E uni0473 uni04E7 uni04E9 uni04EB];
+  @_uni04431 = [uni0443 uni045E uni04EF uni04F1 uni04F3];
+  @_uni0414 = [uni0414 uni0426 uni0429 uni04A2 uni04B4 uni04B6];
+  @_uni04161 = [uni0416 uni04C1 uni04DC];
+  @_uni0403 = [uni0403 uni0413];
+  @_uni040E1 = [uni040E uni0423 uni04EE uni04F0 uni04F2];
+  @_x1 = [uni1E8B uni1E8D x];
+  @_n = [n nacute napostrophe ncaron ncedilla ntilde uni01F9 uni1E45 uni1E47 uni1E49 uni1E4B];
+  @_a1 = [a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring aringacute atilde uni01DF uni01E1 uni0201 uni0203 uni0227 uni1E01 uni1E9A uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7];
+  @_e1 = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek uni0205 uni0207 uni0229 uni1E15 uni1E17 uni1E19 uni1E1B uni1E1D uni1EB9 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7];
+  @_o1 = [o oacute obreve ocaron ocircumflex odieresis ograve ohungarumlaut omacron oslash oslashacute otilde uni01EB uni01ED uni020D uni020F uni022B uni022D uni022F uni0231 uni0275 uni1E4D uni1E4F uni1E51 uni1E53 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9];
+  @_w1 = [uni1E81 uni1E83 uni1E85 uni1E87 uni1E89 uni1E98 w wcircumflex];
+  @_v1 = [uni1E7D uni1E7F v];
+  @_p1 = [p uni1E55 uni1E57];
+  @_y1 = [uni0233 uni1E8F uni1E99 uni1EF3 uni1EF5 uni1EF7 uni1EF9 y yacute ycircumflex ydieresis];
+  @_R = [R Racute Rcaron Rcedilla uni0210 uni0212 uni1E58 uni1E5A uni1E5C uni1E5E];
+  @_A1 = [A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni01DE uni01E0 uni0200 uni0202 uni0226 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6 uni212B];
+  @_X1 = [X uni1E8A uni1E8C];
+  @_K = [K Kcaron Kcedilla uni1E30 uni1E32 uni1E34];
+  @_L = [L Lacute Lcedilla uni1E36 uni1E38 uni1E3A uni1E3C];
+  @_J1 = [IJ J Jcircumflex uni01C7 uni01CA];
+  @_N1 = [N Nacute Ncaron Ncedilla Ntilde uni01F8 uni1E44 uni1E46 uni1E48 uni1E4A];
+  @_Y1 = [Y Yacute Ycircumflex Ydieresis uni0232 uni1E8E uni1EF2 uni1EF4 uni1EF6 uni1EF8];
+  @_S1 = [S Sacute Scaron Scedilla Scircumflex uni0218 uni1E60 uni1E62 uni1E64 uni1E66 uni1E68];
+  @_D = [D Dcaron Dcroat Eth uni1E0A uni1E0C uni1E0E uni1E10 uni1E12];
+  @_U1 = [U Uacute Ubreve Ucaron Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde uni01D5 uni01D7 uni01D9 uni01DB uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6];
+  @_G1 = [G Gacute Gbreve Gcaron Gcedilla Gcircumflex Gdotaccent uni1E20];
+  @_W1 = [W Wcircumflex uni1E80 uni1E82 uni1E84 uni1E86 uni1E88];
+  @_O = [O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Otilde Q uni019F uni01EA uni01EC uni020C uni020E uni022A uni022C uni022E uni0230 uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8];
+  @_V1 = [V uni1E7C uni1E7E];
+  @_d1 = [d dcaron uni1E0B uni1E0D uni1E0F uni1E11 uni1E13];
+  @_uni0442 = [uni0442 uni044A uni04A1];
+  @_uni0430 = [uni0430 uni04D1 uni04D3];
+  @_uni043E = [uni0435 uni043E uni0441 uni0444 uni0450 uni0451 uni0473 uni04D7 uni04E7 uni04E9 uni04EB];
+  @_uni0443 = [uni0443 uni045E uni04EF uni04F1 uni04F3];
+  @_uni0436 = [uni0436 uni04C2 uni04DD];
+  @_uni0432 = [uni0432 uni0433 uni0438 uni0439 uni043A uni043D uni043F uni0448 uni044B uni044C uni0453 uni0456 uni0457 uni045A uni045C uni045D uni0469 uni046D uni0491 uni049D uni04A5 uni04E3 uni04E5 uni04F9];
+  @_uni0447 = [uni0447 uni04F5];
+  @_uni0437 = [uni0437 uni04DF];
+  @_g = [g gacute gbreve gcaron gcedilla gcircumflex gdotaccent uni1E21];
+  @_y = [uni0233 uni1E8F uni1E99 uni1EF3 uni1EF5 uni1EF7 uni1EF9 y yacute ycircumflex ydieresis];
+  @_w = [uni1E81 uni1E83 uni1E85 uni1E87 uni1E89 uni1E98 w wcircumflex];
+  @_v = [uni1E7D uni1E7F v];
+  @_o = [o oacute obreve ocaron ocircumflex odieresis ograve ohungarumlaut omacron otilde uni01EB uni01ED uni020D uni020F uni022B uni022D uni022F uni0231 uni0275 uni1E4D uni1E4F uni1E51 uni1E53 uni1ECD uni1ECF uni1ED1 uni1ED3 uni1ED5 uni1ED7 uni1ED9];
+  @_a = [a aacute abreve acaron acircumflex adieresis agrave amacron aogonek aring aringacute atilde uni01DF uni01E1 uni0201 uni0203 uni0227 uni1E01 uni1E9A uni1EA1 uni1EA3 uni1EA5 uni1EA7 uni1EA9 uni1EAB uni1EAD uni1EAF uni1EB1 uni1EB3 uni1EB5 uni1EB7];
+  @_J = [J Jcircumflex];
+  @_d = [d dcaron uni1E0B uni1E0D uni1E0F uni1E11 uni1E13];
+  @_e = [e eacute ebreve ecaron ecircumflex edieresis edotaccent egrave emacron eogonek uni0205 uni0207 uni0229 uni1E15 uni1E17 uni1E19 uni1E1B uni1E1D uni1EB9 uni1EBB uni1EBD uni1EBF uni1EC1 uni1EC3 uni1EC5 uni1EC7];
+  @_C = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent O Oacute Obreve Ocaron Ocircumflex Odieresis Ograve Ohorn Ohungarumlaut Omacron Otilde Q uni019F uni01EA uni01EC uni020C uni020E uni022A uni022C uni022E uni0230 uni1E08 uni1E4C uni1E4E uni1E50 uni1E52 uni1ECC uni1ECE uni1ED0 uni1ED2 uni1ED4 uni1ED6 uni1ED8 uni1EDA uni1EDC uni1EDE uni1EE0 uni1EE2];
+  @_S = [S Sacute Scaron Scedilla Scircumflex uni0218 uni1E60 uni1E62 uni1E64 uni1E66 uni1E68];
+  @_Y = [Y Yacute Ycircumflex Ydieresis uni0232 uni1E8E uni1EF2 uni1EF4 uni1EF6 uni1EF8];
+  @_U = [U Uacute Ubreve Ucaron Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde uni01D5 uni01D7 uni01D9 uni01DB uni0214 uni0216 uni1E72 uni1E74 uni1E76 uni1E78 uni1E7A uni1EE4 uni1EE6];
+  @_G = [G Gacute Gbreve Gcaron Gcedilla Gcircumflex Gdotaccent uni01E4 uni1E20];
+  @_c = [c cacute ccaron ccedilla ccircumflex cdotaccent uni1E09];
+  @_W = [W Wcircumflex uni1E80 uni1E82 uni1E84 uni1E86 uni1E88];
+  @_V = [V uni1E7C uni1E7E];
+  @_z = [uni1E91 uni1E93 uni1E95 z zacute zcaron zdotaccent];
+  @_x = [uni1E8B uni1E8D x];
+  @_A = [A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Aringacute Atilde uni01DE uni01E0 uni0200 uni0202 uni0226 uni1E00 uni1EA0 uni1EA2 uni1EA4 uni1EA6 uni1EA8 uni1EAA uni1EAC uni1EAE uni1EB0 uni1EB2 uni1EB4 uni1EB6 uni212B];
+  @_s = [s sacute scaron scedilla scircumflex uni0219 uni1E61 uni1E63 uni1E65 uni1E67 uni1E69];
+  @_X = [X uni1E8A uni1E8C];
+  @_p = [p uni1E55 uni1E57];
+
+  lookup KERN_LTR  {
+  lookupflag IgnoreMarks;
+    pos V q -54;
+    pos W q -54;
+    pos uni1E82 q -54;
+    pos Wcircumflex q -54;
+    pos uni1E84 q -54;
+    pos uni1E80 q -54;
+    pos Y q -63;
+    pos Yacute q -63;
+    pos Ycircumflex q -63;
+    pos Ydieresis q -63;
+    pos uni1EF4 q -63;
+    pos uni1EF2 q -63;
+    pos uni1EF6 q -63;
+    pos b d 16;
+    pos b dcaron 16;
+    pos b q 16;
+    pos b uni0233 -36;
+    pos b uni1E0B 16;
+    pos b uni1E0D 16;
+    pos b uni1E0F 16;
+    pos b uni1E11 16;
+    pos b uni1E13 16;
+    pos b uni1E8F -36;
+    pos b uni1E99 -36;
+    pos b uni1EF9 -36;
+    pos b y -36;
+    pos b yacute -36;
+    pos b ycircumflex -36;
+    pos b ydieresis -36;
+    pos b uni1EF5 -36;
+    pos b uni1EF3 -36;
+    pos b uni1EF7 -36;
+    pos p q 16;
+    pos q b -40;
+    pos q uni1E03 -40;
+    pos q uni1E05 -40;
+    pos q uni1E07 -40;
+    pos uni0232 q -63;
+    pos uni0403 uni0414 -60;
+    pos uni0403 uni0434 -80;
+    pos uni0403 uni043B -90;
+    pos uni0403 uni043C -40;
+    pos uni0403 uni0440 -40;
+    pos uni0403 uni044E -45;
+    pos uni0403 uni044F -80;
+    pos uni040E uni0424 -60;
+    pos uni040E uni043B -72;
+    pos uni040E uni043C -45;
+    pos uni040E uni0440 -18;
+    pos uni040E uni0445 -54;
+    pos uni040E uni0446 -54;
+    pos uni040E uni0449 -54;
+    pos uni040E uni044E -54;
+    pos uni040E uni044F -54;
+    pos uni0413 uni0414 -60;
+    pos uni0413 uni0434 -80;
+    pos uni0413 uni043B -90;
+    pos uni0413 uni043C -40;
+    pos uni0413 uni0440 -40;
+    pos uni0413 uni044E -45;
+    pos uni0413 uni044F -80;
+    pos uni0421 uni043B -36;
+    pos uni0423 uni0424 -60;
+    pos uni0423 uni043B -72;
+    pos uni0423 uni043C -45;
+    pos uni0423 uni0440 -18;
+    pos uni0423 uni0445 -54;
+    pos uni0423 uni0446 -54;
+    pos uni0423 uni0449 -54;
+    pos uni0423 uni044E -54;
+    pos uni0423 uni044F -54;
+    pos uni0425 uni0435 -18;
+    pos uni0425 uni043E -18;
+    pos uni0425 uni0441 -18;
+    pos uni0425 uni0444 -18;
+    pos uni0425 uni0450 -18;
+    pos uni0425 uni0451 -18;
+    pos uni0425 uni0473 -18;
+    pos uni0425 uni04D7 -18;
+    pos uni0425 uni04E7 -18;
+    pos uni0425 uni04E9 -18;
+    pos uni0425 uni04EB -18;
+    pos uni0431 uni0414 -32;
+    pos uni0431 uni0432 -18;
+    pos uni0431 uni0433 -18;
+    pos uni0431 uni0434 -45;
+    pos uni0431 uni0438 -18;
+    pos uni0431 uni0439 -18;
+    pos uni0431 uni043A -18;
+    pos uni0431 uni043D -18;
+    pos uni0431 uni043F -18;
+    pos uni0431 uni0443 -36;
+    pos uni0431 uni0448 -18;
+    pos uni0431 uni044B -18;
+    pos uni0431 uni044C -18;
+    pos uni0431 uni0453 -18;
+    pos uni0431 uni0456 -18;
+    pos uni0431 uni0457 -18;
+    pos uni0431 uni045A -18;
+    pos uni0431 uni045C -18;
+    pos uni0431 uni045D -18;
+    pos uni0431 uni045E -36;
+    pos uni0431 uni0469 -18;
+    pos uni0431 uni046D -18;
+    pos uni0431 uni0491 -18;
+    pos uni0431 uni049D -18;
+    pos uni0431 uni04A5 -18;
+    pos uni0431 uni04E3 -18;
+    pos uni0431 uni04E5 -18;
+    pos uni0431 uni04EF -36;
+    pos uni0431 uni04F1 -36;
+    pos uni0431 uni04F3 -36;
+    pos uni0431 uni04F9 -18;
+    pos uni0432 uni0414 -63;
+    pos uni0433 uni0434 -45;
+    pos uni0433 uni043B -27;
+    pos uni0437 uni043B -18;
+    pos uni043A uni0431 -36;
+    pos uni043E uni0414 -40;
+    pos uni043E uni0434 -54;
+    pos uni0440 uni0434 -36;
+    pos uni0441 uni0434 -45;
+    pos uni0441 uni0436 -27;
+    pos uni0441 uni0442 -18;
+    pos uni0441 uni044A -18;
+    pos uni0441 uni04A1 -18;
+    pos uni0441 uni04C2 -27;
+    pos uni0441 uni04DD -27;
+    pos uni0443 uni0414 -87;
+    pos uni0443 uni0434 -36;
+    pos uni0443 uni043B -36;
+    pos uni0444 uni0414 -40;
+    pos uni0444 uni0434 -54;
+    pos uni044D uni0414 -40;
+    pos uni044D uni0434 -54;
+    pos uni044E uni0414 -40;
+    pos uni044E uni0434 -54;
+    pos uni0453 uni0434 -45;
+    pos uni0453 uni043B -27;
+    pos uni045C uni0431 -36;
+    pos uni045E uni0414 -87;
+    pos uni045E uni0434 -36;
+    pos uni045E uni043B -36;
+    pos uni0473 uni0414 -40;
+    pos uni0473 uni0434 -54;
+    pos uni04AA uni043B -36;
+    pos uni04DF uni043B -18;
+    pos uni04E7 uni0414 -40;
+    pos uni04E7 uni0434 -54;
+    pos uni04E9 uni0414 -40;
+    pos uni04E9 uni0434 -54;
+    pos uni04EB uni0414 -40;
+    pos uni04EB uni0434 -54;
+    pos uni04EE uni0424 -60;
+    pos uni04EE uni043B -72;
+    pos uni04EE uni043C -45;
+    pos uni04EE uni0440 -18;
+    pos uni04EE uni0445 -54;
+    pos uni04EE uni0446 -54;
+    pos uni04EE uni0449 -54;
+    pos uni04EE uni044E -54;
+    pos uni04EE uni044F -54;
+    pos uni04EF uni0414 -87;
+    pos uni04EF uni0434 -36;
+    pos uni04EF uni043B -36;
+    pos uni04F0 uni0424 -60;
+    pos uni04F0 uni043B -72;
+    pos uni04F0 uni043C -45;
+    pos uni04F0 uni0440 -18;
+    pos uni04F0 uni0445 -54;
+    pos uni04F0 uni0446 -54;
+    pos uni04F0 uni0449 -54;
+    pos uni04F0 uni044E -54;
+    pos uni04F0 uni044F -54;
+    pos uni04F1 uni0414 -87;
+    pos uni04F1 uni0434 -36;
+    pos uni04F1 uni043B -36;
+    pos uni04F2 uni0424 -60;
+    pos uni04F2 uni043B -72;
+    pos uni04F2 uni043C -45;
+    pos uni04F2 uni0440 -18;
+    pos uni04F2 uni0445 -54;
+    pos uni04F2 uni0446 -54;
+    pos uni04F2 uni0449 -54;
+    pos uni04F2 uni044E -54;
+    pos uni04F2 uni044F -54;
+    pos uni04F3 uni0414 -87;
+    pos uni04F3 uni0434 -36;
+    pos uni04F3 uni043B -36;
+    pos uni1E55 q 16;
+    pos uni1E57 q 16;
+    pos uni1E7C q -54;
+    pos uni1E7D q -18;
+    pos uni1E7E q -54;
+    pos uni1E7F q -18;
+    pos uni1E86 q -54;
+    pos uni1E88 q -54;
+    pos uni1E8E q -63;
+    pos uni1EF8 q -63;
+    pos v q -18;
+    pos Ucyrgrave uni0424 -60;
+  subtable;
+    pos @_uni043A @_uni0442 -54;
+    pos @_uni043A @_uni0430 -36;
+    pos @_uni043A @_uni043E -36;
+    pos @_uni043A @_uni0443 -36;
+    pos @_uni04361 @_uni043E -36;
+    pos @_uni04361 @_uni0443 -36;
+    pos @_uni04301 @_uni0443 -36;
+    pos @_uni04351 @_uni0436 -45;
+    pos @_uni04351 @_uni0443 -18;
+    pos @_uni043E1 @_uni0432 -18;
+    pos @_uni043E1 @_uni0436 -36;
+    pos @_uni043E1 @_uni0442 -18;
+    pos @_uni043E1 @_uni043E 12;
+    pos @_uni04431 @_uni0436 -36;
+    pos @_uni04431 @_uni043E -18;
+    pos @_uni0414 @_uni0442 -32;
+    pos @_uni0414 @_uni0447 -32;
+    pos @_uni0414 @_uni0437 -32;
+    pos @_uni0414 @_uni043E -30;
+    pos @_uni04161 @_uni043E -54;
+    pos @_uni0403 @_uni0432 -48;
+    pos @_uni0403 @_uni0436 -79;
+    pos @_uni0403 @_uni0442 -36;
+    pos @_uni0403 @_uni0447 -30;
+    pos @_uni0403 @_uni0430 -30;
+    pos @_uni0403 @_uni0437 -48;
+    pos @_uni0403 @_uni043E -56;
+    pos @_uni040E1 @_uni0432 -54;
+    pos @_uni040E1 @_uni0442 -54;
+    pos @_uni040E1 @_uni0447 -54;
+    pos @_uni040E1 @_uni043E -108;
+    pos @_x1 @_g -45;
+    pos @_n @_y -18;
+    pos @_a1 @_w -36;
+    pos @_a1 @_v -54;
+    pos @_a1 @_y -36;
+    pos @_e1 @_y -27;
+    pos @_o1 @_o 16;
+    pos @_o1 @_v -18;
+    pos @_w1 @_a -18;
+    pos @_w1 @_J -45;
+    pos @_w1 @_d -36;
+    pos @_v1 @_a -27;
+    pos @_v1 @_o -18;
+    pos @_v1 @_J -50;
+    pos @_v1 @_d -45;
+    pos @_p1 @_o 16;
+    pos @_p1 @_d 16;
+    pos @_y1 @_e -18;
+    pos @_y1 @_J -18;
+    pos @_R @_o -45;
+    pos @_R @_w -52;
+    pos @_R @_v -44;
+    pos @_R @_y -70;
+    pos @_R @_g -63;
+    pos @_R @_C -18;
+    pos @_A1 @_S -18;
+    pos @_A1 @_Y -135;
+    pos @_A1 @_U -64;
+    pos @_A1 @_C -45;
+    pos @_X1 @_o -36;
+    pos @_X1 @_w -54;
+    pos @_X1 @_v -54;
+    pos @_X1 @_G -36;
+    pos @_X1 @_C -72;
+    pos @_K @_e -28;
+    pos @_K @_c -30;
+    pos @_K @_o -39;
+    pos @_K @_w -34;
+    pos @_K @_v -56;
+    pos @_K @_y -44;
+    pos @_K @_g -19;
+    pos @_K @_d -14;
+    pos @_L @_w -52;
+    pos @_L @_v -61;
+    pos @_L @_y -70;
+    pos @_L @_Y -117;
+    pos @_L @_W -90;
+    pos @_L @_V -108;
+    pos @_J1 @_z -25;
+    pos @_J1 @_x -37;
+    pos @_J1 @_w -32;
+    pos @_J1 @_v -37;
+    pos @_J1 @_y -25;
+    pos @_N1 @_A -46;
+    pos @_Y1 @_x -27;
+    pos @_Y1 @_s -27;
+    pos @_Y1 @_a -72;
+    pos @_Y1 @_e -54;
+    pos @_Y1 @_c -63;
+    pos @_Y1 @_o -81;
+    pos @_Y1 @_w -36;
+    pos @_Y1 @_v -54;
+    pos @_Y1 @_y -45;
+    pos @_Y1 @_g -90;
+    pos @_Y1 @_A -162;
+    pos @_Y1 @_G -63;
+    pos @_Y1 @_C -63;
+    pos @_Y1 @_d -81;
+    pos @_S1 @_z -26;
+    pos @_S1 @_w -35;
+    pos @_S1 @_v -26;
+    pos @_S1 @_y -26;
+    pos @_S1 @_g -26;
+    pos @_S1 @_A -45;
+    pos @_D @_X -36;
+    pos @_D @_Y -63;
+    pos @_U1 @_A -64;
+    pos @_G1 @_V -63;
+    pos @_W1 @_s -54;
+    pos @_W1 @_a -45;
+    pos @_W1 @_e -36;
+    pos @_W1 @_c -45;
+    pos @_W1 @_o -54;
+    pos @_W1 @_g -90;
+    pos @_W1 @_G -45;
+    pos @_W1 @_C -45;
+    pos @_W1 @_d -63;
+    pos @_O @_A -45;
+    pos @_O @_X -54;
+    pos @_O @_Y -54;
+    pos @_O @_C 16;
+    pos @_O @_W -36;
+    pos @_O @_V -45;
+    pos @_V1 @_s -45;
+    pos @_V1 @_a -72;
+    pos @_V1 @_e -45;
+    pos @_V1 @_c -63;
+    pos @_V1 @_o -72;
+    pos @_V1 @_y -36;
+    pos @_V1 @_p -45;
+    pos @_V1 @_g -63;
+    pos @_V1 @_G -63;
+    pos @_V1 @_C -54;
+    pos @_V1 @_d -72;
+    pos @_d1 @_v -27;
+    pos @_d1 @_y -27;
+  } KERN_LTR;
+
+} kern;

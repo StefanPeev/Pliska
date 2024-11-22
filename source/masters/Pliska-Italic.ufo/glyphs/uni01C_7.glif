@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C7" format="2">
+  <advance width="998"/>
+  <unicode hex="01C7"/>
+  <anchor x="620.567" y="665" name="t.apo"/>
+  <anchor x="432.005" y="323" name="ldot"/>
+  <anchor x="951.012" y="704" name="top"/>
+  <anchor x="736.277" y="-70" name="bottom"/>
+  <anchor x="278.264" y="704" name="t.top"/>
+  <anchor x="971.317" y="760" name="macron"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="555"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>633</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>549</integer>
+        <key>width</key>
+        <integer>94</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>L_J</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FC0.iota" format="2">
+  <advance width="266"/>
+  <outline>
+    <contour>
+      <point x="308" y="579" type="curve"/>
+      <point x="286" y="579" type="line"/>
+      <point x="276" y="562"/>
+      <point x="255" y="536"/>
+      <point x="233" y="536" type="curve" smooth="yes"/>
+      <point x="195" y="536"/>
+      <point x="178" y="579"/>
+      <point x="138" y="579" type="curve" smooth="yes"/>
+      <point x="85" y="579"/>
+      <point x="48" y="527"/>
+      <point x="30" y="482" type="curve"/>
+      <point x="52" y="482" type="line"/>
+      <point x="63" y="502"/>
+      <point x="80" y="525"/>
+      <point x="105" y="525" type="curve" smooth="yes"/>
+      <point x="139" y="525"/>
+      <point x="156" y="482"/>
+      <point x="203" y="482" type="curve" smooth="yes"/>
+      <point x="255" y="482"/>
+      <point x="290" y="537"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>482</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>482</integer>
+        <key>width</key>
+        <integer>97</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>525</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

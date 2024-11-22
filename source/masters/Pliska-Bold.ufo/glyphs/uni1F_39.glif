@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F39" format="2">
+  <advance width="590"/>
+  <unicode hex="1F39"/>
+  <anchor x="394" y="735" name="top"/>
+  <anchor x="395" y="0" name="b.ogonek"/>
+  <anchor x="395" y="-50" name="bottom"/>
+  <outline>
+    <component base="Iota" xOffset="204"/>
+    <component base="uni1FFE" xOffset="-1" yOffset="-78"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>25</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>593</integer>
+        <key>width</key>
+        <integer>105</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>651</integer>
+        <key>width</key>
+        <integer>25</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>9</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=220</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>com.fontlab.recipe</key>
+  <string>Iota+uni1FFE</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

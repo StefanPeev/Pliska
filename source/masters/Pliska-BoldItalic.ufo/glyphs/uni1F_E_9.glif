@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FE9" format="2">
+  <advance width="687"/>
+  <unicode hex="1FE9"/>
+  <anchor x="91.2845" y="692" name="t.tonos"/>
+  <anchor x="456" y="723" name="top"/>
+  <anchor x="81" y="722" name="gr.diacritics"/>
+  <anchor x="219" y="-50" name="b.ypogegrammeni"/>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="uni0304" xOffset="750.482" yOffset="207"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>628</integer>
+        <key>width</key>
+        <integer>57</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>637</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Upsilon+uni0304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

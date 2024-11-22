@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ylongcyrgrave" format="2">
+  <advance width="987"/>
+  <anchor x="965.163" y="770" name="macron"/>
+  <anchor x="749.724" y="-70" name="bottom"/>
+  <anchor x="768.6" y="10" name="ogonek"/>
+  <anchor x="739.864" y="692" name="t.tonos"/>
+  <outline>
+    <component base="uni042B"/>
+    <component base="uni0300" xOffset="815" yOffset="207"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni042B+uni0300</string>
+  </dict>
+  </lib>
+</glyph>

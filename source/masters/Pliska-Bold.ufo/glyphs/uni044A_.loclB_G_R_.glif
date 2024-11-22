@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni044A.loclBGR" format="2">
+  <advance width="585"/>
+  <outline>
+    <contour>
+      <point x="5" y="319" type="line"/>
+      <point x="36" y="319" type="line"/>
+      <point x="48.4152" y="381.843"/>
+      <point x="66.0785" y="431.849"/>
+      <point x="132" y="432" type="curve"/>
+      <point x="139.024" y="431.641"/>
+      <point x="142.462" y="426.954"/>
+      <point x="142" y="422.391" type="curve"/>
+      <point x="142" y="65" type="line"/>
+      <point x="197" y="13"/>
+      <point x="262" y="-14"/>
+      <point x="340" y="-14" type="curve" smooth="yes"/>
+      <point x="447.181" y="-14"/>
+      <point x="569" y="54.6042"/>
+      <point x="569" y="174" type="curve" smooth="yes"/>
+      <point x="569" y="262.644"/>
+      <point x="497.761" y="330"/>
+      <point x="410" y="330" type="curve" smooth="yes"/>
+      <point x="360" y="330"/>
+      <point x="319" y="309"/>
+      <point x="286" y="270" type="curve"/>
+      <point x="286" y="378" type="line" smooth="yes"/>
+      <point x="286" y="415.054"/>
+      <point x="294.184" y="436.056"/>
+      <point x="335" y="438" type="curve"/>
+      <point x="335" y="461" type="line"/>
+      <point x="23" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="68" type="curve" smooth="yes"/>
+      <point x="286" y="243" type="line"/>
+      <point x="305" y="264"/>
+      <point x="325" y="273"/>
+      <point x="347" y="273" type="curve" smooth="yes"/>
+      <point x="396" y="273"/>
+      <point x="422" y="232"/>
+      <point x="422" y="149" type="curve" smooth="yes"/>
+      <point x="422" y="60"/>
+      <point x="395" y="16"/>
+      <point x="340" y="16" type="curve" smooth="yes"/>
+      <point x="305" y="16"/>
+      <point x="286" y="33"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="2">
+  <advance width="175"/>
+  <anchor x="259.415" y="665" name="_t.apo"/>
+  <outline>
+    <contour>
+      <point x="93.7494" y="435" type="line"/>
+      <point x="177.749" y="482"/>
+      <point x="223.749" y="538"/>
+      <point x="223.749" y="594" type="curve" smooth="yes"/>
+      <point x="223.749" y="634"/>
+      <point x="198.749" y="665"/>
+      <point x="165.749" y="665" type="curve" smooth="yes"/>
+      <point x="136.749" y="665"/>
+      <point x="114.749" y="645"/>
+      <point x="114.749" y="618" type="curve" smooth="yes"/>
+      <point x="114.749" y="601"/>
+      <point x="120.749" y="590"/>
+      <point x="139.749" y="573" type="curve" smooth="yes"/>
+      <point x="154.749" y="559"/>
+      <point x="159.749" y="551"/>
+      <point x="159.749" y="541" type="curve" smooth="yes"/>
+      <point x="159.749" y="514"/>
+      <point x="136.749" y="487"/>
+      <point x="84.7494" y="452" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="665"/>
+</glyph>

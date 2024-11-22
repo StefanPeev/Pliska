@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="2">
+  <advance width="722"/>
+  <unicode hex="00DC"/>
+  <anchor x="290" y="-70" name="bottom"/>
+  <anchor x="483.248" y="723" name="t.ring"/>
+  <anchor x="511.427" y="886" name="t.top"/>
+  <anchor x="296" y="-8" name="ogonek"/>
+  <anchor x="511.244" y="889" name="macron"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0308" xOffset="665.405" yOffset="207"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-18</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>640</integer>
+        <key>width</key>
+        <integer>29</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>732</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>310</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>522</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>U+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

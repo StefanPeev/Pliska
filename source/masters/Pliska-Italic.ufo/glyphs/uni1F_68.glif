@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F68" format="2">
+  <advance width="895"/>
+  <unicode hex="1F68"/>
+  <anchor x="282.567" y="677" name="t.tonos"/>
+  <anchor x="430" y="-50" name="b.ypogegrammeni"/>
+  <outline>
+    <component base="uni03A9" xOffset="152"/>
+    <component base="uni1FBF" xOffset="53" yOffset="44"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>592</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>169</integer>
+        <key>width</key>
+        <integer>130</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>316</integer>
+        <key>width</key>
+        <integer>110</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>864</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=180</string>
+  <key>com.fontlab.recipe</key>
+  <string>uni03A9+uni1FBF</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

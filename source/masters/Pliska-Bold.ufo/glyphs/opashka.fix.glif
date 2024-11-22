@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="opashka.fix" format="2">
+  <advance width="316"/>
+  <outline>
+    <contour>
+      <point x="16.8463" y="0" type="line"/>
+      <point x="42.8463" y="0" type="line" smooth="yes"/>
+      <point x="191.911" y="0"/>
+      <point x="258.702" y="-58.3324"/>
+      <point x="271.846" y="-200" type="curve"/>
+      <point x="295.846" y="-200" type="line"/>
+      <point x="295.846" y="34" type="line"/>
+      <point x="218.7" y="34"/>
+      <point x="182.68" y="46.1758"/>
+      <point x="153.846" y="82" type="curve"/>
+      <point x="16.8463" y="82" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

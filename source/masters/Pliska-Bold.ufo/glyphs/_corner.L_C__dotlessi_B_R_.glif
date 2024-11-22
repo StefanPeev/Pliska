@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.LC_dotlessi_BR" format="2">
+  <advance width="156"/>
+  <outline>
+    <contour>
+      <point x="16.009" y="0" type="move"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="24" type="line"/>
+      <point x="99.4023" y="29.2953"/>
+      <point x="86" y="44.1868"/>
+      <point x="86" y="84" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=16</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=16</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

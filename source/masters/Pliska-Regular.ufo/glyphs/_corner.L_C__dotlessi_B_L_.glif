@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.LC_dotlessi_BL" format="2">
+  <advance width="162"/>
+  <anchor x="95" y="0" name="origin"/>
+  <anchor x="95" y="90" name="left"/>
+  <anchor x="137" y="0" name="right"/>
+  <outline>
+    <contour>
+      <point x="95" y="90" type="move"/>
+      <point x="95" y="26.5295"/>
+      <point x="76.9956" y="19.5251"/>
+      <point x="25" y="15" type="curve"/>
+      <point x="25" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="95" y="0"/>
+  <guideline angle="90" x="137" y="0"/>
+  <guideline angle="90" x="25" y="0"/>
+  <guideline angle="0" x="0" y="90"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=25</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=25</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

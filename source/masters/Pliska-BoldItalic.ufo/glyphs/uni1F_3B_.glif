@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F3B" format="2">
+  <advance width="590"/>
+  <unicode hex="1F3B"/>
+  <anchor x="498.185" y="723" name="top"/>
+  <anchor x="498.163" y="770" name="macron"/>
+  <anchor x="282.724" y="-70" name="bottom"/>
+  <anchor x="301.6" y="10" name="ogonek"/>
+  <anchor x="272.864" y="692" name="t.tonos"/>
+  <anchor x="254" y="-50" name="b.ypogegrammeni"/>
+  <outline>
+    <component base="Iota" xOffset="197"/>
+    <component base="uni1FDD" xOffset="-59" yOffset="30"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>468</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>588</integer>
+        <key>width</key>
+        <integer>104</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>649</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>143</integer>
+        <key>width</key>
+        <integer>44</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>346</integer>
+        <key>width</key>
+        <integer>92</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=240</string>
+  <key>com.fontlab.recipe</key>
+  <string>Iota+uni1FDD</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

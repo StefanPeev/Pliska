@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03131FEF" format="2">
+  <anchor x="-261" y="523" name="_top.gr"/>
+  <anchor x="-120" y="722" name="_gr.diacritics"/>
+  <outline>
+    <component base="uni0313" xOffset="-81" yOffset="7"/>
+    <component base="uni1FEF" xOffset="-279"/>
+  </outline>
+  <guideline angle="0" x="0" y="721"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>515</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>644</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-307</integer>
+        <key>width</key>
+        <integer>43</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

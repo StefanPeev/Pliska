@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_cap.UC_I_top" format="2">
+  <advance width="321"/>
+  <anchor x="211" y="662" name="node1"/>
+  <anchor x="109" y="662" name="node2"/>
+  <outline>
+    <contour>
+      <point x="211" y="553" type="line"/>
+      <point x="211" y="626"/>
+      <point x="225" y="639"/>
+      <point x="309" y="643" type="curve"/>
+      <point x="309" y="662" type="line"/>
+      <point x="12" y="662" type="line"/>
+      <point x="12" y="643" type="line"/>
+      <point x="97" y="638"/>
+      <point x="109" y="627"/>
+      <point x="109" y="553" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="12" y="0"/>
+  <guideline angle="90" x="309" y="0"/>
+  <guideline angle="0" x="0" y="553"/>
+  <guideline angle="90" x="160" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

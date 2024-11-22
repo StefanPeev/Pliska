@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F3E" format="2">
+  <advance width="470"/>
+  <unicode hex="1F3E"/>
+  <anchor x="378.185" y="723" name="top"/>
+  <anchor x="378.163" y="770" name="macron"/>
+  <anchor x="162.724" y="-70" name="bottom"/>
+  <anchor x="181.6" y="10" name="ogonek"/>
+  <anchor x="152.864" y="692" name="t.tonos"/>
+  <anchor x="134" y="-50" name="b.ypogegrammeni"/>
+  <outline>
+    <component base="Iota" xOffset="77"/>
+    <component base="uni1FCF" xOffset="-128" yOffset="33"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>579</integer>
+        <key>width</key>
+        <integer>81</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>649</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>682</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=120</string>
+  <key>com.fontlab.recipe</key>
+  <string>Iota+uni1FCF</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

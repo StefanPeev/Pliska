@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03010307" format="2">
+  <anchor x="-191" y="492" name="_top"/>
+  <anchor x="-191" y="492" name="_t.top"/>
+  <anchor x="-191" y="492" name="_t.ringacute"/>
+  <outline>
+    <component base="uni0301"/>
+    <component base="uni0307" xOffset="-144.088" yOffset="80.6893"/>
+  </outline>
+  <guideline angle="0" x="0" y="492"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acutecomb_dotaccentcomb</string>
+  </dict>
+  </lib>
+</glyph>

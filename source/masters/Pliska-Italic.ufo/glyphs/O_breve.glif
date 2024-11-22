@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="2">
+  <advance width="688"/>
+  <unicode hex="014E"/>
+  <anchor x="464.794" y="724" name="macron"/>
+  <anchor x="136.881" y="677" name="t.tonos"/>
+  <anchor x="229.858" y="-70" name="bottom"/>
+  <anchor x="271.304" y="10" name="ogonek"/>
+  <anchor x="141" y="722" name="gr.diacritics"/>
+  <anchor x="224" y="-50" name="b.ypogegrammeni"/>
+  <anchor x="510.109" y="860" name="t.top"/>
+  <anchor x="477.065" y="802.625" name="t.hook"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0306" xOffset="644.393" yOffset="212"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-18</integer>
+        <key>width</key>
+        <integer>33</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>633</integer>
+        <key>width</key>
+        <integer>33</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>705</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>105</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>594</integer>
+        <key>width</key>
+        <integer>105</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni0306</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

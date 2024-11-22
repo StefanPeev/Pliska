@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+  <advance width="399"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="51" y="-99" type="curve" smooth="yes"/>
+      <point x="51" y="-154"/>
+      <point x="84" y="-174"/>
+      <point x="176" y="-177" type="curve"/>
+      <point x="179" y="-166" type="line"/>
+      <point x="141" y="-155"/>
+      <point x="126" y="-137"/>
+      <point x="126" y="-100" type="curve" smooth="yes"/>
+      <point x="126" y="-87.8019"/>
+      <point x="129.649" y="-67.5852"/>
+      <point x="140.055" y="-28.3056" type="curve" smooth="yes"/>
+      <point x="164.199" y="62.8371" type="line" smooth="yes"/>
+      <point x="181.596" y="128.511"/>
+      <point x="192" y="178.044"/>
+      <point x="192" y="192" type="curve" smooth="yes"/>
+      <point x="192" y="219"/>
+      <point x="176" y="238"/>
+      <point x="137" y="255" type="curve"/>
+      <point x="202" y="272"/>
+      <point x="228" y="301"/>
+      <point x="250" y="384" type="curve" smooth="yes"/>
+      <point x="295" y="552" type="line" smooth="yes"/>
+      <point x="316" y="631"/>
+      <point x="342" y="660"/>
+      <point x="404" y="676" type="curve"/>
+      <point x="407" y="687" type="line"/>
+      <point x="294" y="687"/>
+      <point x="249" y="653"/>
+      <point x="218" y="547" type="curve"/>
+      <point x="170" y="369" type="line" smooth="yes"/>
+      <point x="151" y="296"/>
+      <point x="129" y="272"/>
+      <point x="65" y="255" type="curve"/>
+      <point x="104" y="241"/>
+      <point x="117" y="227"/>
+      <point x="117" y="198" type="curve" smooth="yes"/>
+      <point x="117" y="179.094"/>
+      <point x="110.169" y="142.023"/>
+      <point x="95.6376" y="90.226" type="curve" smooth="yes"/>
+      <point x="69.6532" y="-2.39585" type="line" smooth="yes"/>
+      <point x="56.337" y="-49.8618"/>
+      <point x="51" y="-81.3117"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>51</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>117</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

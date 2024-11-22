@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03070304" format="2">
+  <anchor x="-207" y="492" name="_top"/>
+  <anchor x="-207" y="492" name="_t.top"/>
+  <outline>
+    <component base="uni0307" xOffset="-120"/>
+    <component base="uni0304" yOffset="90"/>
+  </outline>
+  <guideline angle="0" x="0" y="492"/>
+  <guideline angle="0" x="0" y="622"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotaccentcomb_macroncomb</string>
+  </dict>
+  </lib>
+</glyph>

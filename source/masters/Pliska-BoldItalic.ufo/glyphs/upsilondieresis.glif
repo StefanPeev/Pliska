@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresis" format="2">
+  <advance width="536"/>
+  <unicode hex="03CB"/>
+  <anchor x="309" y="523" name="top.gr"/>
+  <anchor x="300" y="523" name="b.tonos"/>
+  <anchor x="149" y="-50" name="b.ypogegrammeni"/>
+  <anchor x="418.355" y="682" name="macron"/>
+  <anchor x="418.538" y="679" name="t.top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="uni0308" xOffset="572.515"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-13</integer>
+        <key>width</key>
+        <integer>29</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>407</integer>
+        <key>width</key>
+        <integer>55</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>upsilon+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

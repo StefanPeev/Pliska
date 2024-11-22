@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FFD" format="2">
+  <advance width="208"/>
+  <unicode hex="1FFD"/>
+  <anchor x="99" y="523" name="_t.variaoxia"/>
+  <anchor x="40" y="735" name="_tonos"/>
+  <outline>
+    <component base="tonos"/>
+  </outline>
+  <guideline angle="90" x="40" y="0"/>
+  <guideline angle="0" x="0" y="738"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>462</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>657</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=40</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=40</string>
+  </dict>
+  </lib>
+</glyph>

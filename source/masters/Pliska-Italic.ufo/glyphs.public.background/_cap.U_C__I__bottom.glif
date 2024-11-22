@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_cap.UC_I_bottom" format="2">
+  <advance width="299"/>
+  <outline>
+    <contour>
+      <point x="-32" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="119" y="90" type="line"/>
+      <point x="70" y="90" type="line"/>
+      <point x="66.0373" y="75.8905" type="line" smooth="yes"/>
+      <point x="55.2509" y="37.4851"/>
+      <point x="19.2384" y="25.1201"/>
+      <point x="-32" y="16" type="curve"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="16" type="line"/>
+      <point x="174.651" y="24.0205"/>
+      <point x="163" y="31.1176"/>
+      <point x="163" y="59.8576" type="curve" smooth="yes"/>
+      <point x="163" y="66.835"/>
+      <point x="163.695" y="74.8399"/>
+      <point x="165.641" y="81.8325" type="curve" smooth="yes"/>
+      <point x="167.914" y="90" type="line"/>
+      <point x="119" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=14</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=14</string>
+  </dict>
+  </lib>
+</glyph>

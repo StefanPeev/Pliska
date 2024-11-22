@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Horizontal.bar" format="2">
+  <advance width="330"/>
+  <anchor x="165" y="22" name="_middle"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="44" type="line"/>
+      <point x="0" y="44" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="44"/>
+  <guideline angle="0" x="0" y="22"/>
+  <guideline angle="90" x="165" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=0</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=0</string>
+  </dict>
+  </lib>
+</glyph>

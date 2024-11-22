@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0496" format="2">
+  <advance width="1001"/>
+  <unicode hex="0496"/>
+  <outline>
+    <component base="I" xOffset="307"/>
+    <contour>
+      <point x="499" y="364" type="line"/>
+      <point x="499" y="323" type="line"/>
+      <point x="531" y="323" type="line" smooth="yes"/>
+      <point x="571" y="323"/>
+      <point x="592" y="302"/>
+      <point x="629" y="236" type="curve" smooth="yes"/>
+      <point x="762" y="0" type="line"/>
+      <point x="789" y="0" type="line" smooth="yes"/>
+      <point x="902" y="0"/>
+      <point x="929" y="-80"/>
+      <point x="946" y="-170" type="curve"/>
+      <point x="972" y="-170" type="line"/>
+      <point x="964" y="38" type="line"/>
+      <point x="887" y="45"/>
+      <point x="823.278" y="59.5228"/>
+      <point x="786" y="127" type="curve" smooth="yes"/>
+      <point x="707" y="270" type="line" smooth="yes"/>
+      <point x="680" y="320"/>
+      <point x="641" y="342"/>
+      <point x="603" y="348" type="curve"/>
+      <point x="603" y="351" type="line"/>
+      <point x="636" y="362"/>
+      <point x="675" y="422"/>
+      <point x="693.977" y="505.72" type="curve" smooth="yes"/>
+      <point x="709" y="572"/>
+      <point x="729" y="590"/>
+      <point x="746.066" y="590" type="curve" smooth="yes"/>
+      <point x="753.088" y="590"/>
+      <point x="760.521" y="586.953"/>
+      <point x="762.253" y="579.038" type="curve" smooth="yes"/>
+      <point x="765.505" y="564.179"/>
+      <point x="786.038" y="560"/>
+      <point x="798.483" y="560" type="curve" smooth="yes"/>
+      <point x="827.038" y="560"/>
+      <point x="849.592" y="582"/>
+      <point x="849.592" y="615.986" type="curve" smooth="yes"/>
+      <point x="849.592" y="650"/>
+      <point x="827" y="668"/>
+      <point x="790.859" y="668" type="curve" smooth="yes"/>
+      <point x="735" y="668"/>
+      <point x="685" y="625"/>
+      <point x="658" y="520" type="curve" smooth="yes"/>
+      <point x="635" y="432"/>
+      <point x="605" y="364"/>
+      <point x="531" y="364" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="307" y="236" type="line" smooth="yes"/>
+      <point x="344.148" y="301.917"/>
+      <point x="359.185" y="323"/>
+      <point x="405" y="323" type="curve" smooth="yes"/>
+      <point x="437" y="323" type="line"/>
+      <point x="437" y="364" type="line"/>
+      <point x="405" y="364" type="line" smooth="yes"/>
+      <point x="331" y="364"/>
+      <point x="300.811" y="431.951"/>
+      <point x="278" y="520" type="curve" smooth="yes"/>
+      <point x="250.811" y="624.951"/>
+      <point x="211" y="668"/>
+      <point x="155.141" y="668" type="curve" smooth="yes"/>
+      <point x="119" y="668"/>
+      <point x="91" y="650"/>
+      <point x="91" y="614" type="curve" smooth="yes"/>
+      <point x="91" y="582"/>
+      <point x="114" y="560"/>
+      <point x="139.666" y="560" type="curve" smooth="yes"/>
+      <point x="155" y="560"/>
+      <point x="170.021" y="568.541"/>
+      <point x="175.47" y="580.441" type="curve" smooth="yes"/>
+      <point x="178.412" y="586.865"/>
+      <point x="183" y="590"/>
+      <point x="191" y="590" type="curve" smooth="yes"/>
+      <point x="207" y="590"/>
+      <point x="227" y="572"/>
+      <point x="242.023" y="505.72" type="curve" smooth="yes"/>
+      <point x="261" y="422"/>
+      <point x="300" y="362"/>
+      <point x="333" y="351" type="curve"/>
+      <point x="333" y="348" type="line"/>
+      <point x="295" y="342"/>
+      <point x="256.478" y="319.739"/>
+      <point x="229" y="270" type="curve" smooth="yes"/>
+      <point x="150" y="127" type="line" smooth="yes"/>
+      <point x="98.4015" y="33.6002"/>
+      <point x="66.5571" y="21.562"/>
+      <point x="10" y="19" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="417" y="0"/>
+  <guideline angle="90" x="519" y="0"/>
+  <guideline angle="90" x="437" y="0"/>
+  <guideline angle="90" x="499" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-170</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>19</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>323</integer>
+        <key>width</key>
+        <integer>41</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>560</integer>
+        <key>width</key>
+        <integer>108</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>418</integer>
+        <key>width</key>
+        <integer>102</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03070304" format="2">
+  <anchor x="-184" y="547" name="_top"/>
+  <outline>
+    <component base="dotaccent" xOffset="-288"/>
+    <component base="uni0304" xOffset="101" yOffset="151.517"/>
+  </outline>
+  <guideline angle="0" x="0" y="537"/>
+  <guideline angle="90" x="-248" y="0"/>
+  <guideline angle="0" x="0" y="665"/>
+  <guideline angle="90" x="-184" y="0"/>
+  <guideline angle="0" x="0" y="601"/>
+  <guideline angle="0" x="0" y="701"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotaccent</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

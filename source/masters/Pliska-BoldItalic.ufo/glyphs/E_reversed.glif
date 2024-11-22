@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversed" format="2">
+  <advance width="670"/>
+  <unicode hex="018E"/>
+  <anchor x="413.92" y="723" name="top"/>
+  <anchor x="425" y="760" name="macron"/>
+  <anchor x="228.919" y="-70" name="bottom"/>
+  <anchor x="523.82" y="0" name="ogonek"/>
+  <anchor x="296.338" y="10" name="cedilla"/>
+  <anchor x="75.8639" y="692" name="t.tonos"/>
+  <outline>
+    <component base="E" xScale="-1" yScale="-1" xOffset="659" yOffset="669"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>E</string>
+  </dict>
+  </lib>
+</glyph>

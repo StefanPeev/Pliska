@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>E</key>
+  <string>E_.glif</string>
+  <key>I</key>
+  <string>I_.glif</string>
+  <key>_cap.UC_I_bottom</key>
+  <string>_cap.U_C__I__bottom.glif</string>
+  <key>_cap.UC_I_top</key>
+  <string>_cap.U_C__I__top.glif</string>
+  <key>_corner.UC_I_BL</key>
+  <string>_corner.U_C__I__B_L_.glif</string>
+  <key>_corner.UC_I_BR</key>
+  <string>_corner.U_C__I__B_R_.glif</string>
+  <key>_corner.UC_I_TL</key>
+  <string>_corner.U_C__I__T_L_.glif</string>
+  <key>_corner.UC_I_TRI</key>
+  <string>_corner.U_C__I__T_R_I_.glif</string>
+  <key>uni0446</key>
+  <string>uni0446.glif</string>
+</dict>
+</plist>

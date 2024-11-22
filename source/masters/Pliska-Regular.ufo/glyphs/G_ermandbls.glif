@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Germandbls" format="2">
+  <advance width="580"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="12" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="535.393" type="line" smooth="yes"/>
+      <point x="176" y="600.154"/>
+      <point x="202.525" y="642"/>
+      <point x="272.153" y="642" type="curve" smooth="yes"/>
+      <point x="348.475" y="642"/>
+      <point x="394" y="586.363"/>
+      <point x="394" y="502.883" type="curve" smooth="yes"/>
+      <point x="394" y="498.582"/>
+      <point x="390.817" y="493.325"/>
+      <point x="386.187" y="489.242" type="curve" smooth="yes"/>
+      <point x="270" y="386.804" type="line"/>
+      <point x="270" y="356.099" type="line"/>
+      <point x="358" y="353.217"/>
+      <point x="434" y="286.925"/>
+      <point x="434" y="161.874" type="curve" smooth="yes"/>
+      <point x="434" y="75.3933"/>
+      <point x="386.407" y="32"/>
+      <point x="329.175" y="32" type="curve" smooth="yes"/>
+      <point x="293.493" y="32"/>
+      <point x="265.995" y="49.4917"/>
+      <point x="252.138" y="80.6104" type="curve"/>
+      <point x="212.324" y="38.9621" type="line"/>
+      <point x="232.651" y="13.9646"/>
+      <point x="272.989" y="-9"/>
+      <point x="336.402" y="-9" type="curve" smooth="yes"/>
+      <point x="459.115" y="-9"/>
+      <point x="548" y="77"/>
+      <point x="548" y="180.515" type="curve" smooth="yes"/>
+      <point x="548" y="305.956"/>
+      <point x="456" y="371.712"/>
+      <point x="303.922" y="384.205" type="curve"/>
+      <point x="303.922" y="364.916" type="line"/>
+      <point x="473.2" y="512.194" type="line" smooth="yes"/>
+      <point x="478.099" y="516.457"/>
+      <point x="481" y="521.586"/>
+      <point x="481" y="527.056" type="curve" smooth="yes"/>
+      <point x="481" y="621.121"/>
+      <point x="403.621" y="683"/>
+      <point x="279.619" y="683" type="curve" smooth="yes"/>
+      <point x="114.127" y="683"/>
+      <point x="73" y="572.785"/>
+      <point x="73" y="452.743" type="curve" smooth="yes"/>
+      <point x="73" y="84" type="line" smooth="yes"/>
+      <point x="73" y="31"/>
+      <point x="62" y="19"/>
+      <point x="12" y="15" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=germandbls</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=germandbls</string>
+  </dict>
+  </lib>
+</glyph>

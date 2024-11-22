@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="righthalfringabovecomb" format="2">
+  <unicode hex="0357"/>
+  <anchor x="-140.918" y="512" name="_t.righthalfring"/>
+  <outline>
+    <component base="uni02BE" xOffset="-190.918"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni02BE</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03040308" format="2">
+  <advance width="500"/>
+  <anchor x="-238" y="553" name="_macron"/>
+  <anchor x="-238" y="553" name="_t.top"/>
+  <anchor x="-154.16" y="682" name="macron"/>
+  <anchor x="-153.977" y="679" name="t.top"/>
+  <outline>
+    <component base="uni0304"/>
+    <component base="uni0308" xOffset="-33" yOffset="140"/>
+  </outline>
+  <guideline angle="0" x="0" y="516"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>macroncomb_dieresiscomb</string>
+  </dict>
+  </lib>
+</glyph>

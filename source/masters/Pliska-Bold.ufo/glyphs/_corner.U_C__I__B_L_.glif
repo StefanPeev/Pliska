@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.UC_I_BL" format="2">
+  <advance width="210"/>
+  <outline>
+    <contour>
+      <point x="109" y="96" type="line"/>
+      <point x="109" y="46"/>
+      <point x="91" y="32"/>
+      <point x="16" y="25" type="curve"/>
+      <point x="16" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

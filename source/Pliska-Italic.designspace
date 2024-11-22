@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis default="400" tag="wght" maximum="700" name="weight" minimum="400">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Pliska" filename="masters/Pliska-BoldItalic.ufo" name="Bold Italic" stylename="Bold Italic">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </source>
+  <source familyname="Pliska" filename="masters/Pliska-Italic.ufo" name="Italic" stylename="Italic">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>public.skipExportGlyphs</key>
+   <array>
+    <string>perthousandzero</string>
+    <string>_cap.UC_I_bottom</string>
+    <string>_cap.UC_I_top</string>
+    <string>_corner.UC_I_BL</string>
+    <string>_corner.UC_I_BR</string>
+    <string>_corner.UC_I_TL</string>
+    <string>_corner.UC_I_TRI</string>
+    <string>_corner.UC_I_TR</string>
+    <string>_corner.UC_TseCyr_opashka</string>
+   </array>
+  </dict>
+ </lib>
+ <instances>
+  <instance familyname="Pliska" filename="instances/Pliska-Italic.ufo" name="Italic" stylename="Italic">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance familyname="Pliska" filename="instances/Pliska-MediumItalic.ufo" name="MediumItalic" stylename="Medium Italic">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance familyname="Pliska" filename="instances/Pliska-SemiBoldItalic.ufo" name="SemiBoldItalic" stylename="SemiBold Italic">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance familyname="Pliska" filename="instances/Pliska-BoldItalic.ufo" name="BoldItalic" stylename="Bold Italic">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

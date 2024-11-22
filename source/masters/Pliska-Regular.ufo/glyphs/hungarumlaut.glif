@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="460"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="40" y="523" type="line"/>
+      <point x="80" y="523" type="line"/>
+      <point x="234" y="620" type="line" smooth="yes"/>
+      <point x="254.898" y="633.163"/>
+      <point x="264" y="646"/>
+      <point x="264" y="662" type="curve" smooth="yes"/>
+      <point x="264" y="682"/>
+      <point x="251" y="694"/>
+      <point x="229" y="694" type="curve" smooth="yes"/>
+      <point x="214" y="694"/>
+      <point x="204.939" y="689.061"/>
+      <point x="187" y="671" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="196" y="523" type="line"/>
+      <point x="236" y="523" type="line"/>
+      <point x="390" y="620" type="line" smooth="yes"/>
+      <point x="410.898" y="633.163"/>
+      <point x="420" y="646"/>
+      <point x="420" y="662" type="curve" smooth="yes"/>
+      <point x="420" y="682"/>
+      <point x="407" y="694"/>
+      <point x="385" y="694" type="curve" smooth="yes"/>
+      <point x="370" y="694"/>
+      <point x="360.939" y="689.061"/>
+      <point x="343" y="671" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>658</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=grave</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=grave</string>
+  </dict>
+  </lib>
+</glyph>

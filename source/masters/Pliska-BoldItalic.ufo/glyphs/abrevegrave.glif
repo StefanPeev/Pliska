@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevegrave" format="2">
+  <advance width="500"/>
+  <unicode hex="1EB1"/>
+  <anchor x="138.024" y="-70" name="b.ring"/>
+  <anchor x="138" y="-70" name="bottom"/>
+  <anchor x="334" y="492" name="macron"/>
+  <anchor x="328.59" y="626" name="t.hook"/>
+  <anchor x="508.412" y="540" name="t.righthalfring"/>
+  <anchor x="339.559" y="10" name="ogonek"/>
+  <outline>
+    <component base="abreve"/>
+    <component base="uni0300" xOffset="627.522" yOffset="163"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>71</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>420</integer>
+        <key>width</key>
+        <integer>42</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>514</integer>
+        <key>width</key>
+        <integer>76</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>657</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>838</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-21</integer>
+        <key>width</key>
+        <integer>123</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>237</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>abreve+uni0300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

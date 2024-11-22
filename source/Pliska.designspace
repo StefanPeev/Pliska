@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="4.0">
+ <axes>
+  <axis default="400" tag="wght" maximum="700" name="weight" minimum="400">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="Pliska" filename="masters/Pliska-Bold.ufo" name="Bold" stylename="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </source>
+  <source familyname="Pliska" filename="masters/Pliska-Regular.ufo" name="Regular" stylename="Regular">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </source>
+ </sources>
+ <lib>
+  <dict>
+   <key>public.skipExportGlyphs</key>
+   <array>
+    <string>Horizontal.bar</string>
+    <string>_cap.UC_I_bottom</string>
+    <string>_cap.UC_I_top</string>
+    <string>_corner.UC_I_BL</string>
+    <string>_corner.UC_I_BR</string>
+    <string>_corner.UC_TseCyr_opashka</string>
+    <string>_corner.UC_I_TL</string>
+    <string>_cap.LC_dotlessi_bottom</string>
+    <string>_cap.LC_dotlessi_top</string>
+    <string>_corner.LC_dotlessi_BL</string>
+    <string>_corner.LC_dotlessi_BR</string>
+    <string>_corner.LC_dotlessi_TL</string>
+    <string>_corner.LC_dotlessi_TR</string>
+    <string>_corner.UC_I_TR</string>
+   </array>
+  </dict>
+ </lib>
+ <instances>
+  <instance familyname="Pliska" filename="instances/Pliska-Regular.ufo" name="Regular" stylename="Regular">
+   <location>
+    <dimension name="weight" xvalue="400"/>
+   </location>
+  </instance>
+  <instance familyname="Pliska" filename="instances/Pliska-Medium.ufo" name="Medium" stylename="Medium">
+   <location>
+    <dimension name="weight" xvalue="500"/>
+   </location>
+  </instance>
+  <instance familyname="Pliska" filename="instances/Pliska-SemiBold.ufo" name="SemiBold" stylename="SemiBold">
+   <location>
+    <dimension name="weight" xvalue="600"/>
+   </location>
+  </instance>
+  <instance familyname="Pliska" filename="instances/Pliska-Bold.ufo" name="Bold" stylename="Bold">
+   <location>
+    <dimension name="weight" xvalue="700"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

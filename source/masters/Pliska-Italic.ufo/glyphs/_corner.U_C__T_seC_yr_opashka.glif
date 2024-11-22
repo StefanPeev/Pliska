@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.UC_TseCyr_opashka" format="2">
+  <advance width="213"/>
+  <anchor x="53" y="0" name="origin"/>
+  <anchor x="-36" y="0" name="left"/>
+  <anchor x="109" y="200" name="right"/>
+  <outline>
+    <contour>
+      <point x="-35.8453" y="0" type="move"/>
+      <point x="49.1547" y="0"/>
+      <point x="86.1547" y="-27"/>
+      <point x="86.1547" y="-114" type="curve" smooth="yes"/>
+      <point x="86.1547" y="-131"/>
+      <point x="85.1547" y="-150"/>
+      <point x="82.1547" y="-172" type="curve"/>
+      <point x="107.155" y="-172" type="line"/>
+      <point x="153.155" y="20" type="line"/>
+      <point x="100.935" y="20"/>
+      <point x="81.295" y="36.5275"/>
+      <point x="81.2351" y="69.9319" type="curve" smooth="yes"/>
+      <point x="81.2171" y="79.9932"/>
+      <point x="82.9754" y="91.5855"/>
+      <point x="86.1548" y="104.718" type="curve" smooth="yes"/>
+      <point x="109.267" y="200.187" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="-36" y="0"/>
+  <guideline angle="90" x="86" y="0"/>
+  <guideline angle="90" x="153" y="0"/>
+  <guideline angle="76.5268" x="20.125" y="-172"/>
+  <guideline angle="0" x="0" y="200"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=14</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=14</string>
+  </dict>
+  </lib>
+</glyph>

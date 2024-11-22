@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni03040300" format="2">
+  <anchor x="-275" y="530" name="_top"/>
+  <outline>
+    <component base="macron" xOffset="-500"/>
+    <component base="uni0300" xOffset="-60.8395" yOffset="127"/>
+  </outline>
+  <guideline angle="90" x="-430" y="0"/>
+  <guideline angle="90" x="-275" y="0"/>
+  <guideline angle="0" x="0" y="546"/>
+  <guideline angle="0" x="0" y="510"/>
+  <guideline angle="0" x="0" y="677"/>
+  <guideline angle="0" x="0" y="650"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>547</integer>
+        <key>width</key>
+        <integer>54</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

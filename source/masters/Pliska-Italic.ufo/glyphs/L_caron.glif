@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="2">
+  <advance width="605"/>
+  <unicode hex="013D"/>
+  <anchor x="432.005" y="323" name="ldot"/>
+  <anchor x="278.264" y="704" name="top"/>
+  <anchor x="237.802" y="-70" name="bottom"/>
+  <anchor x="278.264" y="704" name="t.top"/>
+  <outline>
+    <component base="L"/>
+    <component base="quoteright" xOffset="323.438"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>36</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>633</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>532</integer>
+        <key>width</key>
+        <integer>64</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.metricsRight</key>
+  <string>=L+50</string>
+  <key>com.fontlab.recipe</key>
+  <string>L_quoteright</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

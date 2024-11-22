@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iecyrgrave" format="2">
+  <advance width="670"/>
+  <anchor x="425" y="760" name="macron"/>
+  <anchor x="228.919" y="-70" name="bottom"/>
+  <anchor x="523.82" y="0" name="ogonek"/>
+  <anchor x="296.338" y="10" name="cedilla"/>
+  <anchor x="75.8639" y="692" name="t.tonos"/>
+  <anchor x="111" y="722" name="gr.diacritics"/>
+  <anchor x="217" y="-50" name="b.ypogegrammeni"/>
+  <outline>
+    <component base="uni0415"/>
+    <component base="uni0300" xOffset="658" yOffset="207"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni0415+uni0300</string>
+  </dict>
+  </lib>
+</glyph>

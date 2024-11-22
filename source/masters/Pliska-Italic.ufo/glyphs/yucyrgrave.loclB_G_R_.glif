@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yucyrgrave.loclBGR" format="2">
+  <advance width="684"/>
+  <outline>
+    <component base="uni044E.loclBGR"/>
+    <component base="uni0300" xOffset="666" yOffset="48"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>uni044E.loclBGR+uni0300</string>
+  </dict>
+  </lib>
+</glyph>

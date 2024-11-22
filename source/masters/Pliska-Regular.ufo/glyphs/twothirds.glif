@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twothirds" format="2">
+  <advance width="750"/>
+  <unicode hex="2154"/>
+  <outline>
+    <component base="uni2082" xOffset="-3" yOffset="470"/>
+    <component base="uni2083" xOffset="423" yOffset="203"/>
+    <contour>
+      <point x="101" y="-14" type="line"/>
+      <point x="150" y="-14" type="line"/>
+      <point x="600" y="676" type="line"/>
+      <point x="554" y="676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-3</integer>
+        <key>width</key>
+        <integer>48</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>355</integer>
+        <key>width</key>
+        <integer>56</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

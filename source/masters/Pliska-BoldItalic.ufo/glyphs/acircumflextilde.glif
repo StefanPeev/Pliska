@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflextilde" format="2">
+  <advance width="500"/>
+  <unicode hex="1EAB"/>
+  <anchor x="138.024" y="-70" name="b.ring"/>
+  <anchor x="138" y="-70" name="bottom"/>
+  <anchor x="334" y="492" name="macron"/>
+  <anchor x="471.68" y="559.116" name="t.hook"/>
+  <anchor x="508.412" y="540" name="t.righthalfring"/>
+  <anchor x="339.559" y="10" name="ogonek"/>
+  <outline>
+    <component base="acircumflex"/>
+    <component base="uni0303" xOffset="573.519" yOffset="185"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-14</integer>
+        <key>width</key>
+        <integer>71</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>420</integer>
+        <key>width</key>
+        <integer>42</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>716</integer>
+        <key>width</key>
+        <integer>77</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>760</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-21</integer>
+        <key>width</key>
+        <integer>123</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>237</integer>
+        <key>width</key>
+        <integer>113</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>acircumflex+uni0303</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

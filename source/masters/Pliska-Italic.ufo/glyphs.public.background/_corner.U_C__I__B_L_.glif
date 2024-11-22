@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.UC_I_BL" format="2">
+  <advance width="158"/>
+  <outline>
+    <contour>
+      <point x="-32" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="119" y="90" type="line"/>
+      <point x="70" y="90" type="line"/>
+      <point x="66.0373" y="75.8905" type="line" smooth="yes"/>
+      <point x="55.2509" y="37.4851"/>
+      <point x="19.2384" y="25.1201"/>
+      <point x="-32" y="16" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

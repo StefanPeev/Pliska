@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0308" format="2">
+  <unicode hex="0308"/>
+  <anchor x="-182.156" y="516" name="_top"/>
+  <anchor x="-154.16" y="682" name="macron"/>
+  <anchor x="-153.977" y="679" name="t.top"/>
+  <anchor x="-182.156" y="516" name="_t.gr"/>
+  <outline>
+    <component base="dieresis" xOffset="-407.02" yOffset="-9"/>
+  </outline>
+  <guideline angle="0" x="0" y="516"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dieresis%</string>
+  </dict>
+  </lib>
+</glyph>

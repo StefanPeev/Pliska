@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom" format="2">
+  <advance width="365"/>
+  <outline>
+    <contour>
+      <point x="-18.6488" y="98" type="line"/>
+      <point x="138.351" y="98" type="line"/>
+      <point x="111.351" y="0" type="line"/>
+      <point x="207.351" y="0" type="line"/>
+      <point x="235.351" y="98" type="line"/>
+      <point x="280.351" y="98" type="line"/>
+      <point x="298.351" y="173" type="line"/>
+      <point x="256.351" y="173" type="line"/>
+      <point x="335.351" y="456" type="line"/>
+      <point x="292.351" y="456" type="line"/>
+      <point x="0.351189" y="177" type="line"/>
+    </contour>
+    <contour>
+      <point x="24.3512" y="173" type="line"/>
+      <point x="209.351" y="350" type="line"/>
+      <point x="159.351" y="173" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-126</integer>
+        <key>width</key>
+        <integer>75</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>public.markColor</key>
+  <string>0.999,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

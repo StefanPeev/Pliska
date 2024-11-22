@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_corner.UC_TseCyr_opashka" format="2">
+  <advance width="207"/>
+  <anchor x="98" y="0" name="origin"/>
+  <anchor x="12" y="0" name="left"/>
+  <anchor x="98" y="128" name="right"/>
+  <outline>
+    <contour>
+      <point x="12" y="0" type="move"/>
+      <point x="125" y="0"/>
+      <point x="152" y="-80"/>
+      <point x="169" y="-170" type="curve"/>
+      <point x="195" y="-170" type="line"/>
+      <point x="195" y="38" type="line"/>
+      <point x="118" y="45"/>
+      <point x="98" y="56"/>
+      <point x="98" y="128" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="12" y="0"/>
+  <guideline angle="0" x="0" y="128"/>
+  <guideline angle="90" x="98" y="0"/>
+  <guideline angle="90" x="195" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=I</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=I</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

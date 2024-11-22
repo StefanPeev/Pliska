@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04BD" format="2">
+  <advance width="599"/>
+  <unicode hex="04BD"/>
+  <anchor x="472" y="21" name="b.ogonek"/>
+  <outline>
+    <component base="uni0435" xOffset="149"/>
+    <contour>
+      <point x="244" y="245" type="curve"/>
+      <point x="244" y="280.081" type="line"/>
+      <point x="158" y="280.081"/>
+      <point x="123.96" y="320.25"/>
+      <point x="123.96" y="365.27" type="curve" smooth="yes"/>
+      <point x="123.96" y="386.459"/>
+      <point x="131.5" y="417"/>
+      <point x="147.676" y="441.562" type="curve" smooth="yes"/>
+      <point x="152.879" y="449.462"/>
+      <point x="170" y="477.432"/>
+      <point x="170" y="501.841" type="curve" smooth="yes"/>
+      <point x="170" y="526.991"/>
+      <point x="151.824" y="549.991"/>
+      <point x="109.172" y="549.991" type="curve" smooth="yes"/>
+      <point x="50.3599" y="549.991"/>
+      <point x="19" y="506.261"/>
+      <point x="19" y="427.021" type="curve" smooth="yes"/>
+      <point x="19" y="314.416"/>
+      <point x="82.3285" y="244.972"/>
+    </contour>
+  </outline>
+</glyph>

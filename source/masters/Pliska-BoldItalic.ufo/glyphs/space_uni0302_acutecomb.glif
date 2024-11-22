@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space_uni0302_acutecomb" format="2">
+  <advance width="332"/>
+  <outline>
+    <contour>
+      <point x="75" y="690" type="line"/>
+      <point x="124" y="690" type="line"/>
+      <point x="276" y="777" type="line" smooth="yes"/>
+      <point x="306" y="794"/>
+      <point x="315" y="805"/>
+      <point x="315" y="824" type="curve" smooth="yes"/>
+      <point x="315" y="849"/>
+      <point x="293" y="871"/>
+      <point x="267" y="871" type="curve" smooth="yes"/>
+      <point x="249" y="871"/>
+      <point x="232" y="859"/>
+      <point x="197" y="821" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="40" y="516" type="line"/>
+      <point x="97" y="516" type="line"/>
+      <point x="228" y="611" type="line"/>
+      <point x="316" y="516" type="line"/>
+      <point x="367" y="516" type="line"/>
+      <point x="281" y="690" type="line"/>
+      <point x="200" y="690" type="line"/>
+    </contour>
+  </outline>
+</glyph>

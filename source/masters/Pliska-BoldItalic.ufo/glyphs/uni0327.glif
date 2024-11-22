@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0327" format="2">
+  <unicode hex="0327"/>
+  <anchor x="-375" y="10" name="_cedilla"/>
+  <outline>
+    <contour>
+      <point x="-485" y="-92" type="line"/>
+      <point x="-472" y="-104" type="line"/>
+      <point x="-460" y="-101"/>
+      <point x="-452" y="-100"/>
+      <point x="-442" y="-100" type="curve" smooth="yes"/>
+      <point x="-413" y="-100"/>
+      <point x="-395" y="-114"/>
+      <point x="-395" y="-136" type="curve" smooth="yes"/>
+      <point x="-395" y="-161"/>
+      <point x="-417" y="-177"/>
+      <point x="-451" y="-177" type="curve" smooth="yes"/>
+      <point x="-473" y="-177"/>
+      <point x="-490" y="-173"/>
+      <point x="-518" y="-160" type="curve"/>
+      <point x="-540" y="-193" type="line"/>
+      <point x="-496" y="-211"/>
+      <point x="-464" y="-218"/>
+      <point x="-428" y="-218" type="curve" smooth="yes"/>
+      <point x="-357" y="-218"/>
+      <point x="-304" y="-181"/>
+      <point x="-304" y="-131" type="curve" smooth="yes"/>
+      <point x="-304" y="-89"/>
+      <point x="-342" y="-59"/>
+      <point x="-394" y="-59" type="curve" smooth="yes"/>
+      <point x="-404" y="-59"/>
+      <point x="-410" y="-60"/>
+      <point x="-420" y="-62" type="curve"/>
+      <point x="-375" y="10" type="line"/>
+      <point x="-419" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-218</integer>
+        <key>width</key>
+        <integer>41</integer>
+      </dict>
+    </array>
+    <key>vhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>-395</integer>
+        <key>width</key>
+        <integer>91</integer>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

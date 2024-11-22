@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibreve" format="2">
+  <advance width="338"/>
+  <unicode hex="012C"/>
+  <anchor x="293.753" y="760" name="macron"/>
+  <anchor x="77.7608" y="-70" name="bottom"/>
+  <anchor x="105.077" y="10" name="ogonek"/>
+  <anchor x="91.741" y="677" name="t.tonos"/>
+  <anchor x="118" y="722" name="gr.diacritics"/>
+  <anchor x="48" y="-50" name="b.ypogegrammeni"/>
+  <anchor x="349.126" y="860" name="t.top"/>
+  <anchor x="316.082" y="802.625" name="t.hook"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0306" xOffset="483.41" yOffset="212"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.hintData</key>
+  <dict>
+    <key>hhints</key>
+    <array>
+      <dict>
+        <key>position</key>
+        <integer>0</integer>
+        <key>width</key>
+        <integer>21</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>633</integer>
+        <key>width</key>
+        <integer>20</integer>
+      </dict>
+      <dict>
+        <key>position</key>
+        <integer>705</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+    </array>
+  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0306</string>
+  </dict>
+  </lib>
+</glyph>
