@@ -1,1 +1,1 @@
-All releases of Libra Sans could be download at [Local Fonts](https://localfonts.eu/product/pliska/). Please follow the link.
+All releases of font family Pliska could be download at [Local Fonts](https://localfonts.eu/shop/cyrillic-script/serbian/serbian-cyrillic-serif/pliska/). Please follow the link.
