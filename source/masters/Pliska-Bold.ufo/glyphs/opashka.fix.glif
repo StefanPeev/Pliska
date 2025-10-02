@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="opashka.fix" format="2">
   <advance width="316"/>
+  <anchor x="17" y="0" name="_fix"/>
   <outline>
     <contour>
       <point x="16.8463" y="0" type="line"/>

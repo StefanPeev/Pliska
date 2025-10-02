@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_corner.UC_I_BL" format="2">
   <advance width="210"/>
+  <anchor x="109" y="0" name="origin"/>
+  <anchor x="109" y="96" name="left"/>
+  <anchor x="190" y="0" name="right"/>
   <outline>
     <contour>
       <point x="109" y="96" type="line"/>
@@ -11,6 +14,12 @@
       <point x="190" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="109" y="0"/>
+  <guideline angle="90" x="271" y="0"/>
+  <guideline angle="90" x="16" y="0"/>
+  <guideline angle="90" x="366" y="0"/>
+  <guideline angle="0" x="0" y="96"/>
+  <guideline angle="90" x="190" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

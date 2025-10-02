@@ -4,6 +4,7 @@
   <unicode hex="03AC"/>
   <anchor x="204" y="-50" name="b.ypogegrammeni"/>
   <anchor x="252" y="523" name="top.gr"/>
+  <anchor x="242" y="523" name="t.variaoxia"/>
   <outline>
     <component base="alpha"/>
     <component base="tonos" xOffset="193" yOffset="-3"/>

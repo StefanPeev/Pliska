@@ -2,6 +2,9 @@
 <glyph name="upsilon" format="2">
   <advance width="534"/>
   <unicode hex="03C5"/>
+  <anchor x="280" y="520" name="tonos_top"/>
+  <anchor x="283" y="523" name="top.gr"/>
+  <anchor x="264" y="523" name="t.variaoxia"/>
   <outline>
     <contour>
       <point x="8" y="342.199" type="curve"/>

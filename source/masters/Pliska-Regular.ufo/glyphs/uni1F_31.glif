@@ -3,11 +3,10 @@
   <advance width="267"/>
   <unicode hex="1F31"/>
   <anchor x="99" y="520" name="tonos_top"/>
-  <anchor x="99" y="523" name="top.gr"/>
   <anchor x="99" y="523" name="t.variaoxia"/>
   <outline>
     <component base="iota"/>
-    <component base="uni0314" xOffset="392.5"/>
+    <component base="uni0314" xOffset="388"/>
   </outline>
   <lib>
   <dict>

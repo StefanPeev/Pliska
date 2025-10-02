@@ -25,4 +25,6 @@
       <point x="74" y="376" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <guideline angle="90" x="20" y="0"/>
+  <guideline angle="90" x="267" y="0"/>
 </glyph>

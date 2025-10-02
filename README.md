@@ -32,18 +32,25 @@ If you make modifications be sure to add <code>your name</code> (N), <code>email
 
 [GNU GENERAL PUBLIC LICENSE](LICENSE)
 
-### Local Fonts Project
+### Local Fonts Projects
 
-+ [Coval](https://github.com/StefanPeev/coval)
-+ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)
-+ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)
-+ [Perun](https://github.com/StefanPeev/Perun)
-+ [Pliska](https://github.com/StefanPeev/Pliska)
-+ [Veleka](https://github.com/StefanPeev/Veleka)
-+ [Common Sans](https://github.com/StefanPeev/Common-Sans)
-+ [Common Serif](https://github.com/StefanPeev/Common-Serif)
-+ [Repo](https://github.com/StefanPeev/Repo)
-
++ [Acari Sans](https://github.com/StefanPeev/acari-sans/tree/local) 
++ [Common Sans](https://github.com/StefanPeev/Common-Sans)  
++ [Common Serif](https://github.com/StefanPeev/Common-Serif)  
++ [Coval](https://github.com/StefanPeev/coval)  
++ [Dinish](https://github.com/StefanPeev/dinish/tree/cyrillic)  
++ [Ezerovo](https://github.com/StefanPeev/Ezerovo)  
++ [Gabriela](https://github.com/StefanPeev/Gabriela)  
++ [Involve](https://github.com/StefanPeev/Involve)  
++ [Libra Sans](https://github.com/StefanPeev/Libra-Sans)  
++ [Linguistics Pro](https://github.com/StefanPeev/Linguistics-Pro)  
++ [Open Sans](https://github.com/StefanPeev/opensans/tree/local)  
++ [Perun](https://github.com/StefanPeev/Perun)  
++ [Pliska](https://github.com/StefanPeev/Pliska)  
++ [Scada - Cascade](https://github.com/StefanPeev/Scada-Cascade/tree/local)  
++ [Repo](https://github.com/StefanPeev/Repo)  
++ [Veleka](https://github.com/StefanPeev/Veleka) 
+  
 ### Donations
 
 If you apreciate the project, please feel free to donate: [PayPal](https://www.paypal.me/localfonts).

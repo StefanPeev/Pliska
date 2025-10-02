@@ -130,7 +130,7 @@ You should have received a copy of the GNU General Public License along with thi
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.041</string>
+  <string>Version 1.042</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -305,7 +305,7 @@ You should have received a copy of the GNU General Public License along with thi
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>41</integer>
+  <integer>42</integer>
   <key>xHeight</key>
   <integer>450</integer>
 </dict>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis default="400" tag="wght" maximum="700" name="weight" minimum="400">
+  <axis tag="wght" name="weight" minimum="400" maximum="700" default="400">
    <labelname xml:lang="en">Weight</labelname>
   </axis>
  </axes>
  <sources>
-  <source familyname="Pliska" filename="masters/Pliska-Bold.ufo" name="Bold" stylename="Bold">
+  <source name="Bold" filename="masters/Pliska-Bold.ufo" stylename="Bold" familyname="Pliska">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>
   </source>
-  <source familyname="Pliska" filename="masters/Pliska-Regular.ufo" name="Regular" stylename="Regular">
+  <source name="Regular" filename="masters/Pliska-Regular.ufo" stylename="Regular" familyname="Pliska">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -43,22 +43,22 @@
   </dict>
  </lib>
  <instances>
-  <instance familyname="Pliska" filename="instances/Pliska-Regular.ufo" name="Regular" stylename="Regular">
+  <instance name="Regular" filename="instances/Pliska-Regular.ufo" stylename="Regular" familyname="Pliska">
    <location>
     <dimension name="weight" xvalue="400"/>
    </location>
   </instance>
-  <instance familyname="Pliska" filename="instances/Pliska-Medium.ufo" name="Medium" stylename="Medium">
+  <instance name="Medium" filename="instances/Pliska-Medium.ufo" stylename="Medium" familyname="Pliska">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance familyname="Pliska" filename="instances/Pliska-SemiBold.ufo" name="SemiBold" stylename="SemiBold">
+  <instance name="SemiBold" filename="instances/Pliska-SemiBold.ufo" stylename="SemiBold" familyname="Pliska">
    <location>
     <dimension name="weight" xvalue="600"/>
    </location>
   </instance>
-  <instance familyname="Pliska" filename="instances/Pliska-Bold.ufo" name="Bold" stylename="Bold">
+  <instance name="Bold" filename="instances/Pliska-Bold.ufo" stylename="Bold" familyname="Pliska">
    <location>
     <dimension name="weight" xvalue="700"/>
    </location>

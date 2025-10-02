@@ -2,6 +2,8 @@
 <glyph name="uni044D" format="2">
   <advance width="451"/>
   <unicode hex="044D"/>
+  <anchor x="209" y="523" name="top"/>
+  <anchor x="238" y="0" name="b.cedilla"/>
   <outline>
     <contour>
       <point x="13" y="76" type="line"/>

@@ -7,7 +7,7 @@
   <anchor x="252" y="523" name="top.gr"/>
   <outline>
     <component base="alpha"/>
-    <component base="uni1FEF" xOffset="194.5"/>
+    <component base="uni1FEF" xOffset="143"/>
   </outline>
   <lib>
   <dict>

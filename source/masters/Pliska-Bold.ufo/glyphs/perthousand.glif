@@ -64,10 +64,12 @@
       <point x="44" y="350"/>
       <point x="97" y="294"/>
       <point x="178.323" y="294" type="curve" smooth="yes"/>
-      <point x="317.035" y="294"/>
-      <point x="385.921" y="456.871"/>
-      <point x="385.921" y="579.326" type="curve" smooth="yes"/>
-      <point x="385.921" y="590" type="line"/>
+      <point x="306.046" y="294"/>
+      <point x="387.656" y="433.373"/>
+      <point x="387.826" y="549.172" type="curve" smooth="yes"/>
+      <point x="387.852" y="567.257"/>
+      <point x="387.394" y="578.665"/>
+      <point x="385.921" y="590" type="curve"/>
       <point x="406.621" y="586"/>
       <point x="418.529" y="585"/>
       <point x="430.396" y="585" type="curve" smooth="yes"/>

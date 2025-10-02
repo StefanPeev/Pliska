@@ -6,7 +6,7 @@
   <anchor x="63" y="90" name="right"/>
   <outline>
     <contour>
-      <point x="12" y="0" type="move"/>
+      <point x="12" y="0" type="line"/>
       <point x="72" y="0"/>
       <point x="106" y="-52"/>
       <point x="115" y="-125" type="curve"/>

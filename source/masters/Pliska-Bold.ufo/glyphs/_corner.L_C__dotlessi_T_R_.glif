@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_corner.LC_dotlessi_TR" format="2">
   <advance width="156"/>
+  <anchor x="86" y="460" name="origin"/>
+  <anchor x="86" y="376" name="left"/>
+  <anchor x="16" y="460" name="right"/>
   <outline>
     <contour>
       <point x="86" y="376" type="move"/>
@@ -11,6 +14,10 @@
       <point x="16" y="460" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="86" y="0"/>
+  <guideline angle="0" x="0" y="84"/>
+  <guideline angle="90" x="16" y="0"/>
+  <guideline angle="0" x="0" y="376"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

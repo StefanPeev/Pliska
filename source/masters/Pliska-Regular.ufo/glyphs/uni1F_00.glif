@@ -4,10 +4,10 @@
   <unicode hex="1F00"/>
   <anchor x="247" y="520" name="tonos.top"/>
   <anchor x="204" y="-50" name="b.ypogegrammeni"/>
-  <anchor x="252" y="523" name="top.gr"/>
+  <anchor x="242" y="523" name="t.variaoxia"/>
   <outline>
     <component base="alpha"/>
-    <component base="uni0313" xOffset="552.5"/>
+    <component base="uni0313" xOffset="541"/>
   </outline>
   <lib>
   <dict>

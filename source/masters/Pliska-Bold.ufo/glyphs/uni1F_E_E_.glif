@@ -2,6 +2,7 @@
 <glyph name="uni1FEE" format="2">
   <advance width="408"/>
   <unicode hex="1FEE"/>
+  <anchor x="204" y="460" name="_top.gr"/>
   <outline>
     <contour>
       <point x="0" y="531" type="curve" smooth="yes"/>

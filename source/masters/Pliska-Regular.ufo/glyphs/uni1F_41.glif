@@ -3,11 +3,10 @@
   <advance width="492"/>
   <unicode hex="1F41"/>
   <anchor x="261" y="520" name="tonos_top"/>
-  <anchor x="265" y="523" name="top.gr"/>
   <anchor x="254" y="523" name="t.variaoxia"/>
   <outline>
     <component base="omicron"/>
-    <component base="uni0314" xOffset="505"/>
+    <component base="uni0314" xOffset="554"/>
   </outline>
   <lib>
   <dict>

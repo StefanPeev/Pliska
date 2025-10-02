@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_cap.LC_dotlessi_bottom" format="2">
   <advance width="279"/>
+  <anchor x="70" y="0" name="node1"/>
+  <anchor x="209" y="0" name="node2"/>
   <outline>
     <contour>
       <point x="70" y="84" type="move"/>
@@ -15,6 +17,11 @@
       <point x="209" y="84" type="curve"/>
     </contour>
   </outline>
+  <guideline angle="90" x="70" y="0"/>
+  <guideline angle="90" x="209" y="0"/>
+  <guideline angle="0" x="0" y="84"/>
+  <guideline angle="90" x="16" y="0"/>
+  <guideline angle="90" x="139" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.metricsLeft</key>

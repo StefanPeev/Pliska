@@ -5,10 +5,9 @@
   <anchor x="340" y="520" name="tonos_top"/>
   <anchor x="307" y="-50" name="b.ypogegrammeni"/>
   <anchor x="340" y="523" name="t.variaoxia"/>
-  <anchor x="338" y="523" name="top.gr"/>
   <outline>
     <component base="omega"/>
-    <component base="uni0314" xOffset="605.5"/>
+    <component base="uni0314" xOffset="627"/>
   </outline>
   <lib>
   <dict>

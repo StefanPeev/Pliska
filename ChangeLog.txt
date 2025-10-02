@@ -1,9 +1,9 @@
 Pliska Font Package
 --------------------
-This package is modification of Tempora Font Package. For the license information see the file README.txt. 
-The project 'Pliska Font Package' includes Pliska-Regular, Pliska-Bold, Pliska-Italic and Pliska-BoldItalic.
+Pliska is a part of the project LOCAL FONTS for development of <code>free-to-use fonts</code> with the modern Bulgarian letterform model in Cyrillic code range. The project as a whole is based on an existing fonts under licenses which permit modifications and derivative works. Especially Pliska is based on Tempora Font Package. Pliska offers improved pan-European WGL character set and multilingual support for Cyrillic Script through extension of the Open Type local features. The aim is Pliska to cover GF Cyrillic Plus standart.
+Pliska is a free-to-use non-commercial font released under [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
-Current version 1.100 31.07.2016
+Current version of Pliska is 1.042 02.10.2025
 
 Changes in version 1.100
 1. Full support for Serbian language through Style Set 02.

@@ -4,7 +4,6 @@
   <unicode hex="1FA0"/>
   <anchor x="340" y="520" name="tonos_top"/>
   <anchor x="340" y="523" name="t.variaoxia"/>
-  <anchor x="338" y="523" name="top.gr"/>
   <outline>
     <component base="uni1F60"/>
     <component base="uni0345" xOffset="586"/>

@@ -4,11 +4,10 @@
   <unicode hex="232A"/>
   <outline>
     <contour>
-      <point x="46" y="-168" type="curve"/>
-      <point x="46" y="-175"/>
-      <point x="50" y="-180"/>
-      <point x="56" y="-180" type="curve" smooth="yes"/>
-      <point x="59" y="-180" type="line" smooth="yes"/>
+      <point x="46" y="-168" type="curve" smooth="yes"/>
+      <point x="46" y="-175.251"/>
+      <point x="50.7873" y="-180"/>
+      <point x="59" y="-180" type="curve" smooth="yes"/>
       <point x="66" y="-180"/>
       <point x="74" y="-179"/>
       <point x="87" y="-154" type="curve" smooth="yes"/>
@@ -26,7 +25,7 @@
       <point x="204" y="250" type="line"/>
       <point x="70" y="-100" type="line" smooth="yes"/>
       <point x="55" y="-139"/>
-      <point x="46" y="-167"/>
+      <point x="46" y="-164.102"/>
     </contour>
   </outline>
   <lib>

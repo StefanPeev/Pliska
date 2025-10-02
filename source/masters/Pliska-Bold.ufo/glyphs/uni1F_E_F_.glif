@@ -2,6 +2,8 @@
 <glyph name="uni1FEF" format="2">
   <advance width="196"/>
   <unicode hex="1FEF"/>
+  <anchor x="97" y="523" name="_t.variaoxia"/>
+  <anchor x="20" y="762" name="_tonos"/>
   <outline>
     <contour>
       <point x="145" y="523" type="line"/>
@@ -18,6 +20,8 @@
       <point x="41.746" y="640.939" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <guideline angle="90" x="20" y="0"/>
+  <guideline angle="0" x="0" y="762"/>
   <lib>
   <dict>
   <key>com.fontlab.hintData</key>

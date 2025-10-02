@@ -2,6 +2,9 @@
 <glyph name="iota" format="2">
   <advance width="330"/>
   <unicode hex="03B9"/>
+  <anchor x="130" y="520" name="tonos_top"/>
+  <anchor x="130" y="523" name="top.gr"/>
+  <anchor x="129" y="523" name="t.variaoxia"/>
   <outline>
     <contour>
       <point x="65" y="105" type="line" smooth="yes"/>

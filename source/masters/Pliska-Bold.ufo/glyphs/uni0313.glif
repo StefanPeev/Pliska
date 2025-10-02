@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0313" format="2">
   <unicode hex="0313"/>
+  <anchor x="-297" y="523" name="_top.gr"/>
   <outline>
     <contour>
       <point x="-344" y="528" type="line"/>
