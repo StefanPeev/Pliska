@@ -1,8 +1,7 @@
 Pliska Font Package
 --------------------
-This package is modification of Tempora Font Package in the range of Cyrillic glyphs. The original Cyrillic glyphs (the range uni0410:uni044F) are included as *.locl glyphs. They could be used in Russian, Ukrainian and Serbian languages or through feature Stylistic Set 01 for any Cyrillic language.
-In the font family Pliska the Unicode range uni0410:uni044F consists of letterform model known as Bulgarian Cyrillic (or better say – contemporary Cyrillic).
-The project 'Pliska Font Package' includes Pliska-Regular, Pliska-Bold, Pliska-Italic and Pliska-BoldItalic.
+Pliska is a part of the project LOCAL FONTS for development of free-to-use fonts with the modern Bulgarian letterform model in Cyrillic code range. The project as a whole is based on an existing fonts under licenses which permit modifications and derivative works. Especially Pliska is based on Tempora Font Package. Pliska offers improved pan-European WGL character set and multilingual support for Cyrillic Script through extension of the Open Type local features. The aim is Pliska to cover GF Cyrillic Plus standart.
+Pliska is a free-to-use non-commercial font released under [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 For the Tempora Font Package see text below and the attached files tempora-doc.pdf and tempora-doc.tex. For the GNU GENERAL PUBLIC LICENSE see the file COPYING.
 
